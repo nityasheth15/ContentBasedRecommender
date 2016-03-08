@@ -1,0 +1,4 @@
+Information for those working with PL/SQL, Oracle Application Express, Oracle SQL Developer, scripting languages, and other tools.
+A bimonthly newsletter for developers interested in Oracle's tools and frameworks for cloud, mobile, and web applications development.
+Receive content and resources for developers, deployers, and integrators of Linux and Oracle Solaris and their related software, tools, and hardware.
+See more, act faster with news about BI and EPM, including big data, decision management, enterprise planning, cloud, and more.

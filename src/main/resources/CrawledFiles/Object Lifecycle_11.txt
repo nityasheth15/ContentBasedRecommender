@@ -1,0 +1,8 @@
+Code section 4.33: Finalization. 
+1 protected void finalize() throws Throwable {
+2   try {
+3     doCleanup();        // Perform some cleanup.  If it fails for some reason, it is ignored.
+4   } finally {
+5     super.finalize(); // Call finalize on the parent object
+6   }
+7 }To do: Add some exercises like the ones in VariablesOverloading Methods and Constructors Java Programming Object Lifecycle Nested Classes

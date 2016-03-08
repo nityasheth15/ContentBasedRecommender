@@ -1,0 +1,4 @@
+JDeveloper Extension SDK Multimedia Utilities & Plugins Software Packager Spatial Utilities & Plugins SQLJ Translator Text Utilities & Plugins
+Parallel Graph Analytics (PGX)
+Programming Languages and Runtimes
+SQL Developer Migration Workbench

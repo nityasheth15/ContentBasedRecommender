@@ -1,0 +1,16 @@
+Code section 3.82: Immutability. 
+1 String badlyCutText = "     Java is great.     ";
+2 System.out.println(badlyCutText);
+3 
+4 badlyCutText.trim();
+5 System.out.println(badlyCutText);
+ Output for Code section 3.82 
+     Java is great.    
+     Java is great.Code section 3.82: Immutability. 
+1 String badlyCutText = "     Java is great.     ";
+2 System.out.println(badlyCutText);
+3 
+4 badlyCutText.trim();
+5 System.out.println(badlyCutText);Output for Code section 3.82 
+     Java is great.    
+     Java is great.

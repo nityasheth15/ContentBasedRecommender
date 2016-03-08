@@ -1,0 +1,2 @@
+Throwing and Catching Exceptions - Wikibooks, open books for an open worldThrowing and catching exceptions Checked exceptions Unchecked exceptions Preventing NullPointerException Stack trace Nesting exceptions (chained exceptions)
+the thrown exception object is the same as the exception object specified by the catch-block. the thrown exception object is the subtype of the exception object specified by the catch-block.

@@ -1,0 +1,4 @@
+Service Preview Page | Oracle CloudEmpower small to midsize businesses to recruit and retain the brightest and build a lasting culture of performance.
+Want to chat about how Oracle Social Network can improve collaboration across your enterprise? Request a briefing by logging a request on the community support forum. Someone will get back to you shortly.
+Provides an overview of the trial setup process, setting up users and administrators and configuring settings to optimize your experience.
+Your Oracle Database in the Cloud. This trial includes Database, Java, Database Backup and Storage public cloud services.

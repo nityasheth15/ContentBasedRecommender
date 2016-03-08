@@ -1,0 +1,10 @@
+Code listing 3.1: A statement in a simple class. 
+1 public class MyProgram {
+2     public static void main(String[] args) {
+3         int age = 24;
+4     }
+5 }Code section 3.2: A simple declaration statement. 
+1 int age;Code section 3.3: Multiple assignment statements. 
+1 int a = 10;
+2 int b = 20;
+3 int c = 30;

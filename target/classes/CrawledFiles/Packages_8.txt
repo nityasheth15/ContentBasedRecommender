@@ -1,0 +1,10 @@
+Code section 3.88: Package declaration. 
+1 business.BusinessClass myBusinessClass = new business.BusinessClass();Code listing 3.15: MyClass.java 
+1 import business.BusinessClass;
+2 
+3 public class MyClass {
+4   public static void main(String[] args) {
+5     BusinessClass myBusinessClass = new BusinessClass();
+6   }
+7 }Code section 3.89: Wildcard imports. 
+1 import javax.swing.*;

@@ -1,0 +1,4 @@
+Output on the screen 
+Hello worldCode section 1.2: Print "Hello world" and advance to a new line 
+System.out.println("Hello world");Output on the screen 
+Hello world

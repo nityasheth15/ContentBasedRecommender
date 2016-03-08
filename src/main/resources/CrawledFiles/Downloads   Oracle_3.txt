@@ -1,0 +1,4 @@
+For large downloads or for functionality such as download resuming, Oracle recommends using a download manager.
+If you already have a commercial license you should download your software from the Oracle Software Delivery Cloud, which is specifically designed for customer fulfillment. For patches, see My Oracle Support.
+Oracle's Sun products, patches, updates, and firmware are now accessible only through Oracle Technology Network, Oracle Software Delivery Cloud, and My Oracle Support. To learn more, refer to the Sun Download Center announcement.
+Engage a Sales Expert

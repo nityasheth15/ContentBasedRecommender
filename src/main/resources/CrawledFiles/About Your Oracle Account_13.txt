@@ -1,0 +1,4 @@
+Oracle and our subsidiaries and affiliates respect your preferences concerning the treatment of personal information that we may collect from your use of Oracle Web sites and your interactions with Oracle offline. Learn more about Oracle's Privacy Policy.
+For login issues related to specific applications, select the application or service you are trying to access to submit a help request.
+Still having problems logging in? Submit a help request.
+How do I create a new account? Go to Oracle.com and click on the Sign In/Register for Account link, fill out the mandatory fields, then click the 'Create' button. Once the account is created, a verification email will be sent to the registered email address.

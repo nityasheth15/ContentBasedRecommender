@@ -1,0 +1,9 @@
+Primitive type Class wrapper byte java.lang.Byte char java.lang.Character short java.lang.Short int java.lang.Integer long java.lang.Long float java.lang.Float double java.lang.Double boolean java.lang.Boolean void java.lang.VoidCode section 3.87: Unboxing. 
+1 Boolean canMove = new Boolean(true);
+2  
+3 if (canMove) {
+4   System.out.println("This code is legal in Java 1.5");
+5 }Question 3.11: Autoboxing/unboxing. 
+5 Integer a = 10;
+6 Integer b = a + 2;
+7 System.out.println(b);

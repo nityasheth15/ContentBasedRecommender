@@ -1,0 +1,4 @@
+to construct a String to pass to the System.out.println(). This expression is a series of String concatenation methods which concatenates Strings or the String representation of primitive types (such as doubles) or objects, and returns a long string. For example, the result of this expression for the points (0,3) and (4,0) is the String
+which the method then prints to System.out.
+In order to print, we invoke the println(). This is an instance method from java.io.PrintStream, which is the type of the static field out in the class java.lang.System. The Java VM binds System.out to the standard output stream when it starts a program.
+The main() method is the main entry point which Java invokes when you start a Java program from the command line. The command

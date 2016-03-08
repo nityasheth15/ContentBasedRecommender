@@ -1,0 +1,4 @@
+An array of objects can also be sorted with the help of a Comparator.
+Sorts the specified array of Customer objects (customerArray) according to the order induced by the specified comparator. All elements in the array must be mutually comparable by the specified comparator.
+
+To do: Add some exercises like the ones in Variables

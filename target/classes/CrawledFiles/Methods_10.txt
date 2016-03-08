@@ -1,0 +1,29 @@
+Code section 3.68: return keyword location. 
+ 1 private void aMethod(int a, int b) {
+ 2   int c = 0;
+ 3   if (a > 0) {
+ 4     c = a;
+ 5     return;
+ 6   }
+ 7   int c = c + b;
+ 8   return;
+ 9   int c = c * 2;
+10 }Question 3.9: Compiler error. 
+1 private int myMethod(int a, int b, boolean c) {
+2   b = b + 2;
+3   if (a > 0) {
+4     a = a + b;
+5     return a;
+6   } else {
+7     a = 0;
+8   }
+9 }Answer 3.9: Compiler error. 
+1 private int myMethod(int a, int b, boolean c) {
+2   b = b + 2;
+3   if (a > 0) {
+4     a = a + b;
+5     return a;
+6   } else {
+7     a = 0;
+8   }
+9 }

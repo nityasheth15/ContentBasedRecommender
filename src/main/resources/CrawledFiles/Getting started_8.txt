@@ -1,0 +1,4 @@
+Note: Methods are known by different names in different programming language. They might be called functions, procedures, routines or behaviors.
+By now, we thoroughly understand that any object can interact with its environment and in turn be influenced by it. In our example, the Animal object exposed certain fields – name and legs, and a method – walk() to be used by the environment to manipulate the object. This form of exposure is implicit. Using the Java programming language, a programmer has the power to define the level of access other objects and the environment have on a certain object.
+Alongside declaring and defining objects, their fields and methods, a programmer also has the ability to define the levels of access on those elements. This is done using keywords known as access modifiers.
+Let's modify our example to demonstrate this effect:

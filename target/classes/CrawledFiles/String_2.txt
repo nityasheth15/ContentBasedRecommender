@@ -1,0 +1,4 @@
+The trim() method call does not modify the object so nothing happens. It creates a new trimmed string and then throws it away.
+The returned string is assigned to the variable. It does the job as the trim() method has created a new String instance.
+The Java language provides special support for the string concatenation with operator +:
+The concatenation is not always processed at the same time. Raw string literals concatenation is done at compile time, hence there is a single string literal in the byte code of the class. Concatenation with at least one object is done at runtime.

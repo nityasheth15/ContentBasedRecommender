@@ -1,0 +1,19 @@
+Question 4.2: Movable.java 
+1 public interface Movable extends Walkable, Jumpable {
+2 }Answer 4.2: Person.java 
+1 public class Person implements Movable {
+2     public void walk() {
+3         System.out.println("Do something.");
+4     }
+5 
+6     public void jump() {
+7         System.out.println("Do something.");
+8     }
+9 }Question 4.3: ConsoleLogger.java 
+1 import java.util.Date;
+2 
+3 public class ConsoleLogger {
+4     public void printLog(String log) {
+5         System.out.println(new Date() + ": " + log);
+6     }
+7 }

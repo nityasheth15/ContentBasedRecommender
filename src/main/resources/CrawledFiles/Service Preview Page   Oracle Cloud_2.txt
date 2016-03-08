@@ -1,0 +1,4 @@
+A prebuilt development environment for Application Express and RESTful Web Services. Build your applications with the setup configured and managed for you.
+This is the Database Cloud Service trial which includes Database, Java, Database Backup and Storage public cloud services. You may choose to use only the backup service or any other services. Trials are limited to 30 days with 500GB storage.
+This is the trial for the non-metered cloud storage service only. Customers can try backing up and restoring their small databases. Trials are limited to 30 days with 10GB storage.
+Platform built to run any custom Java EE application in cloud. This trial includes Database, Java, Database Backup and Storage public cloud services.

@@ -1,0 +1,4 @@
+Cloud Solutions Roles Get Started
+Overview Oracle Cloud Platform (PaaS) Infrastructure (IaaS) Applications (SaaS) Data (DaaS) Private Cloud Managed Cloud
+Platform (PaaS) Infrastructure (IaaS) Applications (SaaS) Data (DaaS)
+Oracle Cloud Private Cloud Managed Cloud

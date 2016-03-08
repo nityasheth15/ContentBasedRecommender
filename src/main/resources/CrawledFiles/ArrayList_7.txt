@@ -1,0 +1,23 @@
+public class ArrayListDemo {
+		public static void main(String[] args) {
+	
+		ArrayList al = new ArrayList();
+
+		al.add("A");
+		al.add("B");
+		al.add("C");
+		al.add("E");
+		al.add("F");
+	
+		al.remove(2);
+		al.remove("F");
+		
+		al.set(1, "G");
+		al.add("H");
+		al.set(3, "I");
+		System.out.println("Size of al : " + al.size());
+		System.out.println("Contents of al : " + al);
+
+	}
+  }Size of al : 4
+Contents of al : [A, G, E, I]Method Description Object clone() Returns a shallow copy of this ArrayList. Object[] toArray() Returns an array containing all of the elements in this list in the correct order. Throws NullPointerException if the specified array is null. void trimToSize() Trims the capacity of this ArrayList instance to be the list's current size. void ensureCapacity(int minCapacity) Increases the capacity of this ArrayList instance, if necessary, to ensure that it can hold at least the number of elements specified by the minimum capacity argument. protected void removeRange(int fromIndex, int toIndex) Removes from this List all of the elements whose index is between fromIndex, inclusive and toIndex, exclusive.

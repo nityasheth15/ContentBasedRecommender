@@ -1,0 +1,6 @@
+Code section 3.86: Concatenation of objects. 
+1 System.out.println("Age=" + new Integer(31));
+ Output for Code section 3.86 
+Age=31Code section 3.86: Concatenation of objects. 
+1 System.out.println("Age=" + new Integer(31));Output for Code section 3.86 
+Age=31

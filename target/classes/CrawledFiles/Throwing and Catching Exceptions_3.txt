@@ -1,0 +1,4 @@
+The box 6.1 below talks about the various exception classes within the java.lang package.
+Box 6.1: The Java exception classes
+By default, when an exception is thrown, the current method is interrupted, the calling method is interrupted too and so on till the main method. A thrown exception can also be caught using a try/catch statement. Below is how a try/catch statement works:
+The executed code lines have been highlighted. When no exception is thrown, the method flow executes the try statement and not the catch statement.

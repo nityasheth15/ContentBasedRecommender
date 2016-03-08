@@ -1,0 +1,16 @@
+Code section 4.44: Generic comparator. 
+1 Comparator<Animal> myAnimalComparator = new AnimalComparator();
+2 
+3 static int compareTwoDogs(Comparator<? super Dog> comp, Dog dog1, Dog dog2) {
+4   return comp.compare(dog1, dog2);
+5 }Code section 4.45: Unsafe operation. 
+1 public void addAtBottom(Collection anyCollection) {
+2   anyCollection.add(new Integer(1));
+3 }Code section 4.46: Corruption of list. 
+1 List<String> col = new ArrayList<String>();
+2 addAtBottom(col);
+3 col.get(0).endsWith(".");
+
+ Console for Code section 4.46 
+Exception in thread "main" java.lang.ClassCastException: java.lang.Integer incompatible with java.lang.String
+at Example.main(Example.java:17)

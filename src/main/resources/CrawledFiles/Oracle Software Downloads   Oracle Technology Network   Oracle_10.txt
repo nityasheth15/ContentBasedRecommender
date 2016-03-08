@@ -1,0 +1,4 @@
+Java SE (includes JavaFX) | Early Access Oracle Java SE Embedded Java Card Event Processing for Java Embedded Oracle Java Embedded Suite Java EE & GlassFish Server Java Runtime Environment (JRE)
+Java ME Oracle Java ME Embedded Java ME SDK Oracle Java ME Embedded Client Java for Mobile Java TV
+Database 12c Enterprise/Standard Editions Including: Client, Grid Infrastructure, Examples, Gateways, more Database 11g Enterprise/Standard Editions Database 11g Express Edition Audit Vault and Database Firewall Berkeley DB Big Data Connectors Cluster Verification Utility Database Mobile Server Grid Infrastructure
+ILM Assistant Instant Client MySQL NoSQL Database Rdb Products R Distribution Secure Backup Secure Backup Cloud Module for Amazon S3 TimesTen In-Memory Database

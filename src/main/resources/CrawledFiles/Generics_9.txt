@@ -1,0 +1,13 @@
+Generics - Wikibooks, open books for an open worldNested Classes Java Programming Generics AggregateNavigate Classes and Objects topic: ( v • d • e ) Defining classes Inheritance Interfaces Overloading methods and constructors Object Lifecycle Scope Nested classes GenericsCode listing 4.34: Repository.java 
+ 1 public class Repository {
+ 2 
+ 3    public Integer item;
+ 4 
+ 5    public Integer getItem() {
+ 6       return item;
+ 7    }
+ 8 
+ 9    public void setItem(Integer newItem) {
+10       item = newItem;
+11    }
+12 }

@@ -1,0 +1,20 @@
+Code section 3.11: An if/else if/else statement. 
+1 if (i > 0) {
+2    System.out.println("value stored in i is greater than zero");
+3 } else if (i < 0) {
+4    System.out.println("value stored in i is less than zero");
+5 } else {
+6    System.out.println("value stored is equal to 0");
+7 }Code section 3.12: An if/else statement. 
+1 if (list == null) {
+2   // This block of statements executes if the condition is true.
+3 } else {
+4   // This block of statements executes if the condition is false.
+5 }Code section 3.13: Value swap. 
+1 int x = f();
+2 int y = y();
+3 if (x < y) {
+4   int z = x;
+5   x = y;
+6   y = z;
+7 }

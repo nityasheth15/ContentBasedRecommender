@@ -1,0 +1,8 @@
+Object Lifecycle - Wikibooks, open books for an open worldOverloading Methods and Constructors Java Programming Object Lifecycle ScopeNavigate Classes and Objects topic: ( v • d • e ) Defining classes Inheritance Interfaces Overloading methods and constructors Object Lifecycle Scope Nested classes GenericsCode section 4.30: Object creation. 
+1 {
+2   // Create an object
+3   MyObject obj = new MyObject();
+4 
+5   // Use the object
+6   obj.printMyValues();
+7 }

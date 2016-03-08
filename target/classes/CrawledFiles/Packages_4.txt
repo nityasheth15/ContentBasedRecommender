@@ -1,0 +1,4 @@
+If you change this to import javax.swing.JFraim; the error will be at the import instead of within your code.
+Furthermore, if you import javax.swing.*; and import java.util.*;, and javax.swing.Queue is later added in a future version of Java, your code that uses Queue (java.util) will fail to compile. This particular example is fairly unlikely, but if you are working with non-Oracle libraries, it may be more likely to happen.
+A package name should start with a lower character. This eases to distinguish a package from a class name. In some operating systems, the directory names are not case sensitive. So package names should be lowercase.
+The Java package needs to be unique across Vendors to avoid name collisions. For that reason Vendors usually use their domain name in reverse order. That is guaranteed to be unique. For example a company called Your Company Inc., would use a package name something like this: com.yourcompany.yourapplicationname.yourmodule.YourClass.

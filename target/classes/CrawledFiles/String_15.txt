@@ -1,0 +1,24 @@
+Code section 3.87: Raw concatenation. 
+1 public String convertToString(Collection<String> words) {
+2   String str = "";
+3   // Loops through every element in words collection
+4   for (String word : words) {
+5     str = str + word + " ";
+6   }
+7   return str;
+8 }Code section 3.88: Concatenation with StringBuilder. 
+1 public String convertToString(Collection<String> words) {
+2   StringBuilder buf = new StringBuilder();
+3   // Loops through every element in words collection
+4   for (String word : words) {
+5     buf.append(word);
+6     buf.append(" ");
+7   }
+8   return buf.toString();
+9 }Code section 3.89: Dangerous comparison. 
+1 String greeting = "Hello World!";
+2 if (greeting == "Hello World!") {
+3     System.out.println("Match found.");
+4 }
+ Output for Code section 3.89 
+Match found.

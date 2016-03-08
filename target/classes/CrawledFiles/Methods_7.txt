@@ -1,0 +1,4 @@
+In the above example the getPersonInfoById method returns an object reference that contains both values of the name and the age. See below how you may use that object:
+Question 3.10: Consider the following code:
+The method is supposed to return a int but at line 4, it returns c, which is a String.
+The constructor is a special method called automatically when an object is created with the new keyword. Constructor does not have a return value and its name is the same as the class name. Each class must have a constructor. If we do not define one, the compiler will create a default so called empty constructor automatically.

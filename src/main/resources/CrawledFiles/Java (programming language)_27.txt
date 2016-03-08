@@ -1,0 +1,4 @@
+Java (programming language) - Wikipedia, the free encyclopediaJava Programming at Wikibooks
+1 History 1.1 Principles 1.2 Versions 2 Practices 2.1 Java platform 2.1.1 Implementations 2.1.2 Performance 2.2 Automatic memory management 3 Syntax 4 Examples 4.1 "Hello, world!" program 4.2 Comprehensive example 5 Special classes 5.1 Applet 5.2 Servlet 5.3 JavaServer Pages 5.4 Swing application 5.5 Generics 6 Criticism 7 Use on unofficial software platforms 7.1 Google 8 Class libraries 9 Documentation 10 Editions 11 See also 11.1 Comparison of Java with other languages 12 Notes 13 References 14 External links
+1.1 Principles 1.2 Versions
+2.1 Java platform 2.1.1 Implementations 2.1.2 Performance 2.2 Automatic memory management

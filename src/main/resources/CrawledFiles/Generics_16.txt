@@ -1,0 +1,12 @@
+Code section 4.46: Corruption of list. 
+1 List<String> col = new ArrayList<String>();
+2 addAtBottom(col);
+3 col.get(0).endsWith(".");Console for Code section 4.46 
+Exception in thread "main" java.lang.ClassCastException: java.lang.Integer incompatible with java.lang.String
+at Example.main(Example.java:17)Code section 4.47: Safe operation. 
+1 public void addAtBottom(Collection<?> anyCollection) {
+2    Iterator<?> iterator = anyCollection.iterator();
+3    while (iterator.hasNext()) {
+4       System.out.print(iterator.next());
+5    }
+6 }

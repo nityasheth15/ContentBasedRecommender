@@ -1,0 +1,4 @@
+In the car analogy, the created car may have different Type of drivers. We create separate user manuals for them, Average user manual, Power user manual, Child user manual, or Handicapped user manual. Each type of user manual describes only those features/operations appropriate for the type of driver. The Power driver may have additional gears to switch to higher speeds, that are not available to other type of users...
+When the car key is passed from an adult to a child we replacing the user manuals, that is called Type Casting.
+In Java, casts can occur in three ways:
+Autoboxing and unboxing, language features since Java 1.5, make the programmer's life much easier when it comes to working with the primitive wrapper types. Consider this code fragment:

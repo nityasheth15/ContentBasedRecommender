@@ -1,0 +1,10 @@
+Question 4.2: Walkable.java 
+1 public interface Walkable {
+2     void walk();
+3 }Question 4.2: Jumpable.java 
+1 public interface Jumpable {
+2     void jump();
+3 }Question 4.2: Swimable.java 
+1 public interface Swimable {
+2     void swim();
+3 }

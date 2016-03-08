@@ -1,0 +1,4 @@
+To see how these operators are used, look at this example:
+Comparative operators can be used on any primitive types (except boolean), but only the "equals" and "does not equal" operators work on objects. This is because the less-than/greater-than operators cannot be applied to objects, but the equivalency operators can.
+The Java boolean operators are based on the operations of the boolean algebra. The boolean operators operate directly on boolean values.
+Here is a list of four common boolean operators in Java:

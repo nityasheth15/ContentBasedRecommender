@@ -1,0 +1,7 @@
+Previous page Java Programming Conventions Next pageNavigate Language Fundamentals topic: ( v • d • e ) Statements Conditional blocks Loop blocks Boolean expressions Variables Primitive Types Arithmetic expressions Literals Methods String Objects Packages Arrays Mathematical functions Large numbers Random numbers Unicode Comments Keywords Coding conventionsYou write You get 
+{{XCode|1='''Code listing 1.1: The <code>MyClass</code> class'''
+<source lang="java">
+class MyClass{}
+</source>}}
+ Code listing 1.1: The MyClass class 
+class MyClass{}

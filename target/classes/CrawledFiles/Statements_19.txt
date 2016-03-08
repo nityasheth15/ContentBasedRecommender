@@ -1,0 +1,10 @@
+Code section 3.4: Multiple assignment statements on the same line. 
+1 int a = 10; int b = 20; int c = 30;Code section 3.5: Multiple assignment statements with expressions. 
+1 int firstNumber = 10;
+2 int secondNumber = 20;
+3 int result = firstNumber + secondNumber;
+4 secondNumber = 30;Code section 3.6: A return statement. 
+1     public int getAge() {
+2         assert age >= 0;
+3         return age;
+4     }

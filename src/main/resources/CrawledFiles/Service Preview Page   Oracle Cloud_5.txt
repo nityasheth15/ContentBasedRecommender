@@ -1,0 +1,4 @@
+Oracle Data Visualization Cloud Service is a simple, powerful way to get visual insight from your data.
+This trial provides 500GB of storage capacity plus trials for Oracle Java Cloud Service, Oracle Database Cloud Service, and Oracle Database Backup Service. The trials are limited to 30 days.
+Oracle Storage Cloud Service enables businesses to store and manage digital content in the cloud. Non-metered trial includes access to only the non metered version of Storage Cloud Service.
+

@@ -1,0 +1,4 @@
+Overview Downloads Documentation Community Technologies Training
+Installation Instructions Release Notes Oracle License Java SE Products Third Party Licenses Certified System Configurations Readme Files JDK ReadMe JRE ReadMe
+JDK ReadMe JRE ReadMe
+Software Developers: JDK (Java SE Development Kit). For Java Developers. Includes a complete JRE plus tools for developing, debugging, and monitoring Java applications. Administrators running applications on a server:  Server JRE (Server Java Runtime Environment) For deploying Java applications on servers. Includes tools for JVM monitoring and tools commonly required for server applications, but does not include browser integration (the Java plug-in), auto-update, nor an installer. Learn more End user running Java on a desktop: JRE: (Java Runtime Environment). Covers most end-users needs. Contains everything required to run Java applications on your system.

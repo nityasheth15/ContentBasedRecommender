@@ -1,0 +1,16 @@
+Code listing 4.15: ClassWithInterface.java 
+1 public class ClassWithInterface implements SimpleInterface {
+2     int method1(String parameter) {
+3         return 0;
+4     }
+5 }Code listing 4.16: OneClass.java 
+1 public class OneClass {
+2     public int method1(String parameter) {
+3         return 1;
+4     }
+5 }Code listing 4.17: AnotherClass.java 
+1 public class AnotherClass {
+2     public int method1(String parameter) {
+3         return 2;
+4     }
+5 }

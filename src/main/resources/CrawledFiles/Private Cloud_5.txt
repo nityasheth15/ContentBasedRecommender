@@ -1,0 +1,4 @@
+Cloud Solutions Roles Get Started
+Overview Oracle Cloud Platform (PaaS) Infrastructure (IaaS) Applications (SaaS) Data (DaaS) Private Cloud Managed Cloud
+Platform (PaaS) Infrastructure (IaaS) Applications (SaaS) Data (DaaS)
+Online forum: Oracle Cloud Platform Online Forum On-Demand Workbook: Transforming Your IT Environment with a Database Cloud (PDF) Workbook: Delivering Database as a Service to Your Organization (PDF) White paper: Database-as-a-Service Reaches New Heights of Efficiency (PDF) Library: See all private cloud white papers, webcasts, and e-books

@@ -1,0 +1,4 @@
+All the conditions are evaluated when if is reached, no matter what the result of the condition is, after the execution of the if block:
+Conditional expressions use the compound ?: operator. Syntax:
+This evaluates boolean expression1, and if it is true then the conditional expression has the value of expression1; otherwise the conditional expression has the value of expression2.
+Example:

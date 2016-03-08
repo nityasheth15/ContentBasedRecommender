@@ -1,0 +1,4 @@
+Oracle Fusion Middleware Oracle Identity Management Oracle Exalogic Elastic Cloud Oracle SOA Oracle BPM Oracle WebLogic Oracle Coherence Oracle JRockit Oracle WebCenter
+Oracle Enterprise Manager Oracle Ops Center
+Oracle Hardware
+Oracle Communications Oracle Financial Services Oracle Health Sciences Oracle Healthcare Oracle Hospitality Oracle Insurance Oracle Public Sector Oracle Retail Oracle Utilities

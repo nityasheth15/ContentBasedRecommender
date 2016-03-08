@@ -1,0 +1,4 @@
+The index of the first character in a string is 0.
+By counting from there, it is apparent that the character in index 3 is the second "f" in "coffee". This is known as the beginIndex. All characters from the beginIndex until the end of the string will be copied into the new substring.
+The second method involves a user-defined beginIndex and endIndex:
+The string returned by substring() would be "port".

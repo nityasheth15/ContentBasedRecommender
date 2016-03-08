@@ -1,0 +1,7 @@
+You write You get 
+{{TODO|To-do items for pages should be kept in their respective comment boxes.|Java Programming}}
+ To do: To-do items for pages should be kept in their respective comment boxes.To do: To-do items for pages should be kept in their respective comment boxes.You write You get 
+{{Java/Hidden begin|title=Hidden section}}
+This section is not mandatory.
+{{Hidden end}}
+ Hidden section This section is not mandatory.

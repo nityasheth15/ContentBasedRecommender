@@ -1,0 +1,3 @@
+This is an additional note.You write You get 
+{{XWarning|This is a warning.}}
+ This is a warning.This is a warning.

@@ -1,0 +1,4 @@
+Overview Roles Technologies Get Started
+Main Technologist Executive Educator End User
+VDC Research white paper: Brewing Embedded Market Success with Java (PDF) Article: How to Become an Embedded Developer in Minutes (PDF) Video: Oracle Grows Java Capabilities for the Internet of Things (8:53) White paper: Developing Intelligent Connected Devices for the Internet of Things (PDF)
+Brochure: Oracle Java Embedded: Unlocking the Value of M2M with Intelligence on Devices (PDF) Video: Building Blocks for the Internet of Things (8:38)

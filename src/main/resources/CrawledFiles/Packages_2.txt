@@ -1,0 +1,4 @@
+If your class is declared in a package, say business, your class must be placed in a subfolder called business from the root of your application folder. This is how the compiler and the class loader find the Java files on the file system. You can declare your class in a subpackage, say engine. So the full package is business.engine and the class must be placed in a subsubfolder called engine in the subfolder business (not in a folder called business.engine).
+The simpliest way to use a class declared in a package is to prefix the class name with its package:
+If you are using the class from a class in the same package, you don't have to specify the package. If another class with the same name exists in another package, it will use the local class.
+The syntax above is a bit verbose. You can import the class by using the import Java keyword at the top of the file and then only specify its name:

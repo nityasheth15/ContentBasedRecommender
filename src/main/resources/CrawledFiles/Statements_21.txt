@@ -1,0 +1,13 @@
+Output provided with the screen of information running the above code. 
+Inside main method! Invoking aMethod!
+Inside aMethod!
+Back in main method!Code section 3.9: A return statement. 
+1     public int getAge() {
+2         int age = 24;
+3         return age;
+4     }Code section 3.10: An if statement. 
+1 if (i > 0) {
+2    System.out.println("value stored in i is greater than zero");
+3 } else {
+4    System.out.println("value stored is not greater than zero");
+5 }

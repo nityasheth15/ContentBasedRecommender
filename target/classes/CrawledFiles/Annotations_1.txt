@@ -1,0 +1,4 @@
+Annotations - Wikibooks, open books for an open world
+Javadoc is Java source code document generator, that was introduced with the Java language from version 1.0 .
+Well commented Java code is supposed to have Javadoc tags. Those tags are in the /** ... */ comment blocks, so the compiler ignores them. A separate utility would read the code and create the Java API html files.
+The Javadoc API documentations are well known. The Java JDK classes are coming with Javadoc API documentations. Most popular IDE tools automatically read Javadoc tags and wherever that class, attribute or method are used, the tags content are displayed automatically, when the mouse courser is over of the text.

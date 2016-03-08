@@ -1,0 +1,24 @@
+Stack trace - Wikibooks, open books for an open worldPreventing NullPointerException Java Programming Stack trace Nesting ExceptionsNavigate Exceptions topic:( v • d • e ) Throwing and catching exceptions Checked exceptions Unchecked exceptions Preventing NullPointerException Stack trace Nesting exceptions (chained exceptions)Code listing 6.3: StackTraceExample.java 
+ 1 public class StackTraceExample {
+ 2   public static void main(String[] args) {
+ 3     method1();
+ 4   }
+ 5 
+ 6   public static void method1() {
+ 7     method11();
+ 8   }
+ 9 
+10   public static void method11() {
+11     method111();
+12   }
+13 
+14   public static void method111() {
+15     throw new NullPointerException("Fictitious NullPointerException");
+16   }
+17 }
+ Output for Code listing 6.3 
+Exception in thread "main" java.lang.NullPointerException: Fictitious NullPointerException
+at StackTraceExample.method111(StackTraceExample.java:15)
+at StackTraceExample.method11(StackTraceExample.java:11)
+at StackTraceExample.method1(StackTraceExample.java:7)
+at StackTraceExample.main(StackTraceExample.java:3)

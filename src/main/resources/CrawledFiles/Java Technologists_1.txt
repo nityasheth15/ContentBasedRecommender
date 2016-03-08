@@ -1,0 +1,4 @@
+Java Technologists - Programmers, Developers, Architects | OracleHarness big data, drive smarter decisions, enable new services, and reduce costs while unlocking the value of the Internet of Things with intelligence on connected devices.
+The proliferation of intelligent devices has created a market for entirely new solutions. Leverage the data from M2M and IoT devices to drive smarter decisions, enable new services, and reduce costs.
+Support on-the-fly application downloads and add new capabilities without affecting existing functions. Develop highly functional, reliable, and portable applications for OEM embedded systems and gateways.
+Get expert monitoring and management for mission-critical Java applications and minimize the costs of deployment, monitoring, and maintenance of Java-based IT environments.

@@ -1,0 +1,9 @@
+Code section 2.12: Void methods 
+1 public static void main(String[] args) { ... }
+2 public void printDistance()  { ... }Code section 2.13: Method declaration 
+1 private static int intValue(String data) {
+2   return Integer.parseInt(data);
+3 }Code section 2.14: Collapsed code 
+1 privatestaticint intValue(String data) {
+2   return Integer.parseInt(data);
+3 }

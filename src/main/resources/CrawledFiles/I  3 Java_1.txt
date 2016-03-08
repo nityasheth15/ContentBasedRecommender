@@ -1,0 +1,4 @@
+I <3 JavaGet Ready for Java 9! Three presentations to help you understand Java 9 https://blogs.oracle.com/java/entry/get_ready_for_java_9
+Configure Java Virtual Machine for Web-oriented server applications (i.e. Web Front-End) in production or production-like environments.
+http://blog.sokolenko.me/…/11/javavm-options-production.html
+Excellent AMA by Java experts discussing Java 8 / 9 http://virtualjug.com/#live

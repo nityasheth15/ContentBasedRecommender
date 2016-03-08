@@ -1,0 +1,4 @@
+The if ... else statement is used to conditionally execute one of two blocks of statements, depending on the result of a boolean condition.
+Oracle's Java Code Conventions recommend that the braces should always be used.
+An if statement has two forms:
+and

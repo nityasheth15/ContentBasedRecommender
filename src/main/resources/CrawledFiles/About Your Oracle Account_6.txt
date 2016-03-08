@@ -1,0 +1,4 @@
+OLN users can access online course content and track courses they've taken.
+All online courses are hosted on iLearning. Users need to have an Oracle Account to access this site.
+Taleo
+Taleo provides a searchable database of all currently open Oracle employment requisitions. Users are able to post their resumes and apply for job postings online.

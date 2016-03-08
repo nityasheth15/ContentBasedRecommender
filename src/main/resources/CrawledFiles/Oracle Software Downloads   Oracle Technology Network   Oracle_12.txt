@@ -1,0 +1,4 @@
+ADF Faces Application Express Standalone BI Publisher BI Spreadsheet Add-in BPEL Process Manager Data Miner Developer Suite 10g (includes Designer) Developer Tools for Visual Studio Enterprise Pack for Eclipse Forms & Reports Services JDeveloper & ADF
+NetBeans IDE SOA Suite Solaris Studio SQL Developer SQL Developer Data Modeler StorageTek Team Productivity Center TopLink Warehouse Builder WebRTC Session Controller Client SDK XML Developer Kit 10g
+Agile Product Lifecycle Management AIA Process Integration Commerce
+E-Business Suite, PeopleSoft, JD Edwards, Siebel CRM User Productivity Kit (UPK/UPK Professional)

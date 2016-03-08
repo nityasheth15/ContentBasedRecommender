@@ -1,0 +1,4 @@
+Overview Downloads Documentation Community Technologies Training
+Java SE 8 Java SE Embedded 8
+Java ME 8 Internet of Things and The Enterprise
+Legal Notices Terms of Use Privacy

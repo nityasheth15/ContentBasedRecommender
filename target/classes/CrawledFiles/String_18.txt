@@ -1,0 +1,13 @@
+Code section 3.91: Comparison with lowercase. 
+1 String greeting = "Hello World!";
+2 if (greeting.equals("hello world!")) {
+3     System.out.println("Match found.");
+4 }Output for Code section 3.91Code section 3.92: Order. 
+1 String person1 = "Peter";
+2 String person2 = "John";
+3 if (person1.compareTo(person2) > 0) {
+4     // Badly ordered
+5     String temp = person1;
+6     person1 = person2;
+7     person2 = temp;
+8 }

@@ -1,0 +1,4 @@
+Comparing Objects - Wikibooks, open books for an open worldMap Java Programming Comparing Objects ExceptionsNavigate Aggregate topic: ( v • d • e ) Collection ArrayList Map Comparing ObjectsCode section 5.19: Reference equality. 
+1 if (objRef1 == objRef2) {
+2     // The two object references point to the same object
+3 }

@@ -1,0 +1,4 @@
+Please note that the endIndex is not inclusive. This means that the last character will be of the index endIndex-1. Therefore, in this example, every character from index 3 to index 6, inclusive, was copied into the substring.
+The String class also allows for the modification of cases. The two methods that make this possible are toLowerCase() and toUpperCase().
+These methods are useful to do a search which is not case sensitive:
+Question 3.12: You have mail addresses in the following form: <firstName>.<lastName>@<companyName>.org

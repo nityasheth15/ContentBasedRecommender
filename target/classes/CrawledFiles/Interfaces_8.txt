@@ -1,0 +1,27 @@
+Code listing 4.19: InterfaceB.java 
+1 public interface InterfaceB {
+2   public void methodB();
+3 }Code listing 4.20: InterfaceAB.java 
+1 public interface InterfaceAB extends InterfaceA, InterfaceB {
+2   public void otherMethod();
+3 }Code listing 4.21: ClassAB.java 
+ 1 public class ClassAB implements InterfaceAB {
+ 2   public void methodA() {
+ 3     System.out.println("A");
+ 4   }
+ 5 
+ 6   public void methodB() {
+ 7     System.out.println("B");
+ 8   }
+ 9 
+10   public void otherMethod() {
+11     System.out.println("foo");
+12   }
+13 
+14   public static void main(String[] args) {
+15     ClassAB classAb = new ClassAB();
+16     classAb.methodA();
+17     classAb.methodB();
+18     classAb.otherMethod();
+19   }
+20 }

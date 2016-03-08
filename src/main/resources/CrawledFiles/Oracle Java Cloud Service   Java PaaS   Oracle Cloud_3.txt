@@ -1,0 +1,4 @@
+Fully manage your application environment using purpose-built cloud tooling, or have Oracle perform standard administrative operations like patching, backup, restore, scaling, and so on
+Flexible, enterprise grade security for the infrastructure running your applications, including dedicated and isolated virtual machines for you server instances.
+Scale out or scale in your application cluster anytime, with a single click or with a REST call. Increase capacity of your service anytime you choose.
+Flexible and complete control of your application environment, including access to the underlying infrastructure

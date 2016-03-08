@@ -1,0 +1,1 @@
+Figure 2: Example of a complex system with multiple sub-systems and interactionsclass Animal { }Note: Class definitions have different names in different languages. They are sometimes called type definitions, object specifications or templates as well

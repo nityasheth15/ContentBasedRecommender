@@ -1,0 +1,4 @@
+Invoking C - Wikibooks, open books for an open world
+You can use Runtime.exec() method to invoke a program from within a running Java application. Runtime.exec() also allows you to perform operations related to the program, such as control the program's standard input and output, wait until it completes execution, and get its exit status.
+Here's a simple C application that illustrates these features. This C program will be called from Java:
+This application writes a string "testing" to standard output, and then terminates with an exit status of 0. To execute this simple program within a Java application, compile the C application:

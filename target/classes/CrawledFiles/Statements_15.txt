@@ -1,0 +1,4 @@
+Where there is an ability to re-iterate the loop, there is an ability to exit the loop when required. At any given moment, if you'd like to exit a loop and end all further work within the loop, the break ought to be used.
+The continue and break statements can be used with a label like follows:
+A throw statement exit from a method and so on and so on or it is caught by a try/catch block. It does not return a variable but an exception:
+Beware not to write statements after a throw statement which would not be executed too! Each throw statement is ended by a semi-colon (;).

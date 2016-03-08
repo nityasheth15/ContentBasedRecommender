@@ -1,0 +1,20 @@
+Code section 4.16: Impossible call. 
+1 public static void main(String[] args) {
+2     doAction(new OneClass());
+3     doAction(new AnotherClass());
+4 }
+5 
+6 public void doAction(Object anObject) {
+7     anObject.method1("Hello!");
+8 }Code section 4.17: Interface use. 
+1 public static void main(String[] args) {
+2     doAction(new ClassWithInterface());
+3     doAction(new AnotherClassWithInterface());
+4 }
+5 
+6 public void doAction(SimpleInterface anObject) {
+7     anObject.method1("Hello!");
+8 }Code listing 4.18: InterfaceA.java 
+1 public interface InterfaceA {
+2   public void methodA();
+3 }

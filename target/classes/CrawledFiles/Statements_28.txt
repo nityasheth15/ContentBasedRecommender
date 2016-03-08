@@ -1,0 +1,4 @@
+Statements - Wikibooks, open books for an open worldStatements Conditional blocks Loop blocks Boolean expressions Variables Primitive Types Arithmetic expressions Literals Methods String Objects Packages Arrays Mathematical functions Large numbers Random numbers Unicode Comments Keywords Coding conventions
+A statement is a unit of code in programming. If we are assigning a variable a value, the statement is called an assignment statement. An assignment statement includes three parts: a data type, the variable name (also called the identifier) and the value of a variable. We will look more into the nature of identifiers and values in the section Variables later.
+Unconditional Branching Conditional Branching
+The while loop The do...while loop The for loop The foreach loop

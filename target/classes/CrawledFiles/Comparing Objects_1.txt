@@ -1,0 +1,4 @@
+Comparing Objects - Wikibooks, open books for an open world
+In Java, we can distinguish two kinds of equality.
+If two objects are equal in reference, they are equal in value too.
+The == operator can be used to check if two object references point to the same object.

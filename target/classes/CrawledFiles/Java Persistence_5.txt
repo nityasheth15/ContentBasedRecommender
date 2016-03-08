@@ -1,0 +1,4 @@
+EclipseLink Wiki Oracle TopLink Wiki Glassfish TopLink Essentials Wiki Hibernate Wiki DataNucleus Wiki JPA on Wikipedia JPA on Javapedia JPA on freebase JPA at DMOZ
+Sun EJB Forum JavaRanch ORM Forum EclipseLink Forum Oracle TopLink Forum Hibernate Forum TopLink Essentials Mailing List (Glassfish persistence) DataNucleus Forum ObjectDB Forum Java Persistence Performance
+Oracle TopLink Home EclipseLink Home TopLink Essentials Home Hibernate Home Open JPA Home DataNucleus AccessPlatform HiberObjects Ebean ORM ObjectDB Object Database ObjetDB's JPA Performance Benchmark
+EclipseLink On Persistence (Shaun Smith) Java Persistence (Doug Clarke) System.out (Mike Keith) Java Persistence Performance (James Sutherland) Hibernate Blog DataNucleus Blog JPA implementation patterns: Wrap-up

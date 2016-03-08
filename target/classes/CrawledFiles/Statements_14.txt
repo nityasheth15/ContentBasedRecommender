@@ -1,0 +1,4 @@
+For an example, we'll take an array of Strings denoting days in a week and traverse through the collection, examining one item at a time.
+Notice that the loop automatically exits after the last item in the collection has been examined in the statement block.
+Although the enhanced for loop can make code much clearer, it can't be used in some common situations.
+At times, you would like to re-iterate a loop without executing the remaining statement within the loop. The continue statement causes the loop to re-iterate and start over from the top most statement inside the loop.

@@ -1,0 +1,4 @@
+Printing is part of a Java standard library: The System class defines a public static field called out. The out object is an instance of the PrintStream class and provides many methods for printing data to standard out, including println(String) which also appends a new line to the passed string.
+The string "Hello World!" is automatically converted to a String object by the compiler.
+Java applets are programs that are embedded in other applications, typically in a Web page displayed in a web browser.
+The import statements direct the Java compiler to include the javax.swing.JApplet and java.awt.Graphics classes in the compilation. The import statement allows these classes to be referenced in the source code using the simple class name (i.e. JApplet) instead of the fully qualified class name (FQCN, i.e. javax.swing.JApplet).

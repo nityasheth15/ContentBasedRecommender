@@ -1,0 +1,9 @@
+Code section 4.41: Example of subclass. 
+1 // Create "Animal Collection" variable
+2 Collection<? extends Animal> animalColl = new ArrayList<Dog>();Code section 4.42: Superclass. 
+1 Comparator<? super Dog> myComparator;Code section 4.43: Comparator. 
+1 class AnimalComparator implements Comparator<Animal> {
+2   int compare(Animal a, Animal b) {
+3    //...
+4   }
+5 }

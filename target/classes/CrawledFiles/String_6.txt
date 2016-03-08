@@ -1,0 +1,4 @@
+Sometimes it is useful to split a string into separate strings, based on a regular expressions. The String class has a split() method, since Java 1.4, that will return a String array:
+Another useful application could be to split the String text based on the new line character, so you could process the text line by line.
+It may also be sometimes useful to create substrings, or strings using the order of letters from an existing string. This can be done in two methods.
+The first method involves creating a substring out of the characters of a string from a given index to the end:

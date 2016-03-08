@@ -1,0 +1,25 @@
+Code section 4.48: Automatic cast. 
+ 1 Customer cust = Utility.createAnyObject(Customer.class);  // No casting
+ 2 ...
+ 3 public static <T> T createAnyObject(Class<T> cls) {
+ 4     T ret = null;
+ 5     try {
+ 6         ret = cls.newInstance();
+ 7     } catch (Exception e) {
+ 8         // Exception Handling
+ 9     }
+10     return ret;
+11 }Code section 4.49: Former version. 
+ 1 Customer cust = (Customer) Utility.createAnyObject(Customer.class);  // Casting is needed
+ 2 ...
+ 3 public static Object createAnyObject(Class cls) {
+ 4     Object ret = null;
+ 5     try {
+ 6         ret = cls.newInstance();
+ 7     } catch (Exception e) {
+ 8         // Exception Handling
+ 9     }
+10     return ret;
+11 }Code section 4.50: Java generics. 
+1 Collection<String>  collString  = new ArrayList<String>();
+2 Collection<Integer> collInteger = new ArrayList<Integer>();

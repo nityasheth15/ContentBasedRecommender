@@ -1,0 +1,22 @@
+Code listing 4.13: Plane.java 
+ 1 public class Plane extends Vehicle {
+ 2     // ...
+ 3     public void run() throws Exception {
+ 4         if (0 < height) {
+ 5            throw new Exception("A plane can't run in flight.");
+ 6         } else {
+ 7            super.run();
+ 8         }
+ 9     }
+10 }Question 4.1: Class1.java 
+1 public class Class1 {
+2     public static final int CONSTANT_OF_CLASS_1 = 9;
+3     public int myAttributeOfClass1 = 40;
+4     public void myMethodOfClass1(int i) {
+5     }
+6 }Question 4.1: Class2.java 
+1 public class Class2 extends Class1 {
+2     public int myAttributeOfClass2 = 10;
+3     public void myMethodOfClass2(int i) {
+4     }
+5 }

@@ -1,0 +1,4 @@
+Java for Educators - Training, Certification and Curriculum | OracleFew subjects will open as many doors for students as computer science (CS) and engineering. To help educators awaken and deepen students' interest in these fields of study, the Oracle Academy provides up-to-date, industry-relevant, and engaging education resources.
+The proliferation of low-cost development boards has opened new doors for embedded development. Learn how to program these boards and make rapid development for IoT a low-cost reality.
+Discover the go-to platform for efficient development of rich, scalable apps that allows customers to support even the most robust business requirements while taking advantage of the latest technologies.
+Find the certification and training you need for the world's #1 programming language, which is easy to learn and is supported by infinite resources to help you get started.

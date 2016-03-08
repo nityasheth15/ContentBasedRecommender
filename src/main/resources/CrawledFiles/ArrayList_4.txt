@@ -1,0 +1,4 @@
+Different Method in ArrayList
+Output for Different Method in ArrayList
+Question: Consider the following code:
+In the example above, what is output?

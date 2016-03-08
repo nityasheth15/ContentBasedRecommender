@@ -1,0 +1,4 @@
+Client Server - Wikibooks, open books for an open world
+In 1990s, the trend was moving away from Mainframe computing to Client/Server, as the price of Unix servers dropped. The database access and some business logic were centralized on the back-end server, collecting data from the user program was installed on the front-end users' "client" computers. In the Java world there are three main ways the front-end and the back-end could simply communicate.
+In this page there is an example for socket connection.
+Java language was developed having network computing in mind. For this reason it is very easy to create a server program. A server is a piece of code that runs all the time listening on a particular port on the computer for incoming request. When a request arrives, it starts a new thread to service the request. See the following example:

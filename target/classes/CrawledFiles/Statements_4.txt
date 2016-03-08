@@ -1,0 +1,4 @@
+Note that after the assignment to result its value will not be changed if we assign different values to firstNumber or secondNumber, like in line 4.
+With the information you have just attained, you can actually write a decent Java program that can sum up values.
+An assertion checks if a condition is true:
+Each assert statement is ended by a semi-colon (;). However, assertions are disabled by default, so you must run the program with the -ea argument in order for assertions to be enabled (java -ea [name of compiled program]).

@@ -1,0 +1,2 @@
+Output for Code section 3.70 
+0Object object ? new Object()object.firstName ? "James" object.lastName ? "Gosling" object.birthDay ? "May 19"

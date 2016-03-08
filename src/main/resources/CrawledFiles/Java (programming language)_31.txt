@@ -1,0 +1,4 @@
+v t e
+Java Card for smartcards.[61] Java Platform, Micro Edition (Java ME) – targeting environments with limited resources.[62] Java Platform, Standard Edition (Java SE) – targeting workstation environments.[63] Java Platform, Enterprise Edition (Java EE) – targeting large distributed enterprise or Internet environments.[64]
+Book: Programming for Students
+Dalvik – used in old Android versions, replaced by non-JIT Android Runtime JavaOne Javapedia List of Java virtual machines List of Java APIs List of JVM languages Graal, a project aiming to implement a high performance Java dynamic compiler and interpreter

@@ -1,0 +1,4 @@
+  public static void main(String[] args) {     Distance dist = new Distance(       intValue(args[0]), intValue(args[1]),       intValue(args[2]), intValue(args[3]));     dist.printDistance();   }
+  private static int intValue(String data) {     return Integer.parseInt(data);   }
+}
+Sequences of tokens are used to construct the next building blocks of Java classes as shown above: declarations and definitions. A class declaration provides the name and visibility of a class. In our example, public class Distance is the class declaration. It consists (in this case) of two keywords, public and class followed by the identifier Distance.

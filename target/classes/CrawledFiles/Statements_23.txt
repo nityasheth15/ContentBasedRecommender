@@ -1,0 +1,29 @@
+Code section 3.14: Multiple branching. 
+1 if (x == 2)
+2   x = 4;
+3 else if (x == 3)
+4   x = 6;
+5 else
+6   x = -1;Code section 3.15: A switch. 
+ 1 int n = 2, x;
+ 2 switch (n) {
+ 3   case 1: x = 2;
+ 4     break;
+ 5   case 2: x = 4;
+ 6     break;
+ 7   case 3: x = 6;
+ 8     break;
+ 9   case 4: x = 8;
+10     break;
+11 }
+12 return x;Code section 3.16: A for loop. 
+1 for (int i = 0; i < 100; i++) {
+2   System.out.println(i + "\t" + i * i);
+3 }
+ Output for code listing 3.16 if you compile and run the statement above. 
+ 0      0
+ 1      1
+ 2      4
+ 3      9
+ ...
+ 99     9801

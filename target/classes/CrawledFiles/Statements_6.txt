@@ -1,0 +1,4 @@
+When a name of a method is encountered in a flow, it stops execution in the current method and branches to the newly called method. After returning a value from the called method, execution picks up at the original method on the line below the method call.
+The program flow begins in the main method. Just as aMethod is invoked, the flow travels to the called method. At this very point, the flow branches to the other method. Once the method is completed, the flow is returned to the point it left off and resumes at the next statement after the call to the method.
+A return statement exits from a block, so it is often the last statement of a method:
+A return statement can return the content of a variable or nothing. Beware not to write statements after a return statement which would not be executed! Each return statement is ended by a semi-colon (;).

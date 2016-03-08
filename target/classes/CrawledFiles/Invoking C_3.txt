@@ -1,0 +1,2 @@
+Invoking C - Wikibooks, open books for an open worldJava Native Interface Java Programming Invoking C Byte CodeNavigate Advanced topic: ( v • d • e ) Networking Database programming Regular Expressions Libraries, extensions and frameworks 3D programming Java Native Interface Invoking C Byte CodeCompilation 
+$ cc test.c -o test

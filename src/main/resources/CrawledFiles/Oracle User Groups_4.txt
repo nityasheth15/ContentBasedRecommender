@@ -1,0 +1,4 @@
+Java User Groups Java on OTN
+MySQL User Groups
+Applications - Debra Lilley Java - Henrik Stahl ORCLville - Floyd Teter Data and Database - Ian Abramson The Aquarium - Glassfish Daily Editor's Blog - Java.net
+The Java Source - Java news Quest IOUG - Independent Oracle Users Group ODTUG DOAG.TV

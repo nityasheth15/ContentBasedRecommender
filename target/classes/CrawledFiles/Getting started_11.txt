@@ -1,0 +1,7 @@
+Animal dog = new Animal();Animal dog = new Animal();
+Animal cat = new Animal();
+Animal camel = new Animal();class Animal {
+
+  String name;
+  int legs;
+}

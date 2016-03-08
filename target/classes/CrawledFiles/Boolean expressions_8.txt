@@ -1,0 +1,2 @@
+Boolean expressions - Wikibooks, open books for an open worldStatements Conditional blocks Loop blocks Boolean expressions Variables Primitive Types Arithmetic expressions Literals Methods String Objects Packages Arrays Mathematical functions Large numbers Random numbers Unicode Comments Keywords Coding conventions
+> : Greater than < : Less than >= : Greater than or equal to <= : Less than or equal to == : Equal to != : Not equal to

@@ -1,0 +1,4 @@
+The method is supposed to return a int but when a is negative or equal to 0, it returns nothing.
+We can pass any primitive data types or objects to a method but the two are not processed the same way.
+The primitive types are passed in by value. It means that as soon as the primitive type is passed in, there is no more link between the value inside the method and the source variable:
+As you can see in code section 3.70, the modifyValue() method has not modified the value of i.

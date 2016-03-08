@@ -1,0 +1,4 @@
+To do: Complete this section.
+The best way to build your application is to use a build tool. This checks all the needed dependencies and compiles only the needed class for the build. Ant tool is one of the best and the most popular build tools currently available. Ant is a build management tool designed to replace MAKE as the tool for automated builds of large Java applications. Like Java, and unlike MAKE, Ant is designed to be platform independent.
+Using Ant you would build your application from the command line by typing:
+The build.xml file contains all the information needed to build the application.

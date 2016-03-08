@@ -1,0 +1,4 @@
+? may also be represented in Java as the Unicode escape sequence \u03C0. Thus, the following is a valid, but not very readable, declaration and assignment:
+The following demonstrates the use of Unicode escape sequences in other Java syntax:
+Note that a Unicode escape sequence functions just like any other character in the source code. E.g., \u0022 (double quote, ") needs to be quoted in a string just like ".
+The language distinguishes between bytes and characters. Characters are stored internally using UCS-2, although as of J2SE 5.0, the language also supports using UTF-16 and its surrogates. Java program source may therefore contain any Unicode character.

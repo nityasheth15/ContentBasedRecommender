@@ -1,0 +1,4 @@
+Get the latest news about Java platform and Oracle's Java-based middleware and Java IDEs.
+Get news about the Linux community, including events, offers, and links to technical articles.
+Get product and event news, hints, and tips on using MySQL, and more.
+Stay up to date on new releases of Oracle's best-in-class systems and software, product strategy, analysis, customer stories, events, offers, and more.

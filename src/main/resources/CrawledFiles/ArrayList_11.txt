@@ -1,0 +1,4 @@
+Replaces the element at the specified position in this list with the specified element. Throws IndexOutOfBoundsException if the specified index is is out of range (index < 0 or index >= size()).
+Returns the index in this list of the first occurrence of the specified element, or -1 if the List does not contain this element.
+Returns the index in this list of the last occurrence of the specified element, or -1 if the list does not contain this element.
+Returns true if this list contains the specified element. More formally, returns true if and only if this list contains at least one element e such that (o==null ? e==null : o.equals(e)).

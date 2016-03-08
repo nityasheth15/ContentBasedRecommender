@@ -1,0 +1,3 @@
+Oracle RSS FeedsRather than visiting a series of Web pages every day, many Web users are installing RSS newsreaders and configuring them to pull RSS feeds. It's like having news delivered to your desktop!
+Already set up for RSS? Configure your RSS newsreader software to point to the URL(s) below.
+What is RSS? As defined by Wikipedia, RSS (acronymic for Really Simple Syndication) is "a group of XML based web-content distribution and republication (Web syndication) formats primarily used by news sites and weblogs (blogs)." Essentially, an RSS feed is a hosted XML file from which your RSS newsreader pulls headlines, URLs, and other content as it is updated.

@@ -1,0 +1,4 @@
+Jeffrey Berg H. Raymond Bingham Michael Boskin Safra A. Catz Larry Ellison Héctor García-Molina Joseph Grundfest Jeffrey O. Henley Mark Hurd Jack F. Kemp Donald L. Lucas Naomi O. Seligman
+Sun PeopleSoft Hyperion Siebel BEA JD Edwards RightNow Virtual Iron TimesTen Retek Sunopsis
+Oracle Database MySQL InnoDB Berkeley DB TimesTen Rdb Essbase
+Java PL/SQL

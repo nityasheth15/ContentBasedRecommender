@@ -1,0 +1,4 @@
+Take a look at the example above:
+The name has changed because the method has changed the object itself and not the reference. Now take a look at the other example:
+The name has not changed because the method has changed the reference and not the object itself. The behavior is the same as if the method was in-lined and the parameters were assigned to new variable names:
+Java SE 5.0 added syntactic support for methods with variable argument list, which simplifies the typesafe usage of methods requiring a variable number of arguments. Less formally, these parameters are called varargs[1]. The last parameter can be followed with ..., and Java will box all the arguments into an array. Vararg parameter must always be the last method parameter:

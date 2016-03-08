@@ -1,0 +1,7 @@
+Output for Code section 3.94 
+feec o f f e e 0 1 2 3 4 5Code section 3.95: Extraction of string. 
+1 String str = "supporting";
+2 System.out.println(str.substring(3, 7));
+
+ Output for Code section 3.95 
+port

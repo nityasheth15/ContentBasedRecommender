@@ -1,0 +1,4 @@
+An interface can extend several interfaces, similar to the way that a class can extend another class, using the extends keyword:
+This way, a class implementing the InterfaceAB interface has to implement the methodA(), the methodB() and the otherMethod() methods:
+Doing so, a ClassAB object can be casted into InterfaceA, InterfaceB and InterfaceAB.
+Question 4.2: Consider the following interfaces.

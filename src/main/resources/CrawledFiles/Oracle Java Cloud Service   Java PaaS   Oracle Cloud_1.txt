@@ -1,0 +1,4 @@
+Oracle Java Cloud Service | Java PaaS | Oracle CloudRapid, self-service provisioning of Oracle WebLogic Server and Oracle Coherence in the cloud for custom applications and Oracle SaaS extensions.
+Enterprise level security, high availability, and performance for business-critical applications.
+Built on open standards so that Java applications are easily deployed and managed.
+Choose the service level offerings, tooling and WebLogic Server versions to fit your needs.

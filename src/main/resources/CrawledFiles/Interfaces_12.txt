@@ -1,0 +1,34 @@
+Answer 4.3: ConsoleLogger.java 
+1 import java.util.Date;
+2 
+3 public class ConsoleLogger implements Logger {
+4     public void printLog(String log) {
+5         System.out.println(new Date() + ": " + log);
+6     }
+7 }Answer 4.3: FileLogger.java 
+ 1 import java.io.File;
+ 2 import java.io.FileOutputStream;
+ 3 
+ 4 public class FileLogger implements Logger {
+ 5   public void printLog(String log) {
+ 6     try {
+ 7       File file = new File("log.txt");
+ 8       FileOutputStream stream = new FileOutputStream(file);
+ 9       byte[] logInBytes = (new Date() + ": " + log).getBytes();
+10 
+11       stream.write(logInBytes);
+12 
+13       stream.flush();
+14       stream.close();
+15     } catch (Exception e) {
+16       e.printStackTrace();
+17     }
+18   }
+19 }Answer 4.3: Common code. 
+1 Logger[] loggerArray = new Logger[2];
+2 loggerArray[0] = new ConsoleLogger();
+3 loggerArray[1] = new FileLogger();
+4 
+5 for (Logger logger : loggerArray) {
+6     logger.printLog("Check point.");
+7 }

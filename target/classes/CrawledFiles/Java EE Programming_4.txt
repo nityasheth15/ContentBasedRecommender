@@ -1,0 +1,4 @@
+Glassfish (Default application server) JBoss Geronimo
+Eclipse NetBeans
+Entity Beans Bean Managed Persistence (BMP) Container Managed Persistence (CMP) EJB-QL Session Beans Stateless Session Beans Stateful Session Beans Message Driven Bean Container Managed Transactions
+Java Data Objects (JDO)

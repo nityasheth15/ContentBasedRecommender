@@ -1,0 +1,4 @@
+Proactive problem diagnosis and resolution -- Prevent most problems from occurring; immediately treat and triage when issues arise
+Configuration management – Healthchecks based on your unique configuration and patch advice to help prevent problems before they affect your running environment are automatically generated when you log your configurations with Oracle Configuration Manager (also called the Collector in My Oracle Support).
+My Oracle Support
+View all brochures and data sheets

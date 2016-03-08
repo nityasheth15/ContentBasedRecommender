@@ -1,0 +1,4 @@
+Example:
+If statements can also be made more complex using the else if combination:
+If there is only one statement to be executed after the condition, as in the above example, it is possible to omit the curly braces, however Oracle's Java Code Conventions explicitly state that the braces should always be used.
+There is no looping involved in an if statement so once the condition has been evaluated the program will continue with the next instruction after the statement.

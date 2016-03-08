@@ -1,0 +1,4 @@
+Java Solutions for Executives | OracleDevelop rich, scalable apps, and support even the most-robust business requirements while taking advantage of the latest technology standards and innovations.
+Tap into a pool of more than 9 million developers worldwide, and take advantage of comprehensive tooling, a mature ecosystem, and robust performance, to deliver application portability across even the most disparate computing environments .
+Get expert monitoring and management for your mission-critical Java applications and minimize the costs of deployment, monitoring, and maintenance of Java-based IT environments for business continuity, risk mitigation, and management.
+Discover the foundation for virtually every type of networked application and the global standard for developing and delivering mobile applications, games, Web-based content, and rich enterprise software.

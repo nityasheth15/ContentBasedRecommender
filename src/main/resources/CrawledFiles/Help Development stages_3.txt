@@ -1,0 +1,5 @@
+Markup Displays as 
+[[Main Page]] {{stage|100%|Jan 11, 2005}}
+ Main Page  (Jan 11, 2005) 
+[[Main Page]] {{stage short|100%|Jan 11, 2005}}
+ Main Page

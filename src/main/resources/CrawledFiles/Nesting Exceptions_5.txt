@@ -1,0 +1,20 @@
+Code listing 6.4: NestingExceptionExample.java 
+ 1 public class NestingExceptionExample {
+ 2  
+ 3   public static void main(String[] args) throws Exception {
+ 4     Object[] localArgs = (Object[]) args;
+ 5    
+ 6     try {
+ 7       Integer[] numbers = (Integer[]) localArgs;
+ 8     } catch (ClassCastException originalException) {
+ 9       Exception generalException = new Exception(
+10         "Horrible exception!",
+11         originalException);
+12       throw generalException;
+13     }
+14   }
+15 }Output for Code listing 6.4 
+Exception in thread "main" java.lang.Exception: Horrible exception!
+at NestingExceptionExample.main(NestingExceptionExample.java:9)
+Caused by: java.lang.ClassCastException: [Ljava.lang.String; incompatible with [Ljava.lang.Integer;
+at NestingExceptionExample.main(NestingExceptionExample.java:7)

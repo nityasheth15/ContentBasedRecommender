@@ -1,0 +1,4 @@
+CORBA is language independent "Remote Method Invocation" like RMI. RMI only works with Java, CORBA can be used with any languages. For more information see: w:Common Object Request Broker Architecture.
+RMI is much simpler to use than CORBA, so in an only Java environment RMI should be used.
+If you need to call methods between different language environments, use CORBA. With CORBA a Java client can call C++ server and/or a C++ client can call a Java server. With RMI that can not be done.
+The Vector class can receive any object (so it can not receive primitive types), even different types of data in the same Vector.

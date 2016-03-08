@@ -1,0 +1,4 @@
+Comparison of programming languages Comparison of Java and C++ Comparison of C# and Java
+Gosling, James; Joy, Bill; Steele, Guy; Bracha, Gilad; Buckley, Alex (2014). The Java® Language Specification (PDF) (Java SE 8 ed.).  Gosling, James; Joy, Bill; Steele, Guy L., Jr.; Bracha, Gilad (2005). The Java Language Specification (3rd ed.). Addison-Wesley. ISBN 0-321-24678-0.  Lindholm, Tim; Yellin, Frank (1999). The Java Virtual Machine Specification (2nd ed.). Addison-Wesley. ISBN 0-201-43294-3. 
+v t e
+Java language JVM Micro Edition Standard Edition Enterprise Edition Java Card Android SDK

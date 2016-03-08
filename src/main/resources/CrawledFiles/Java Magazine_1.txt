@@ -1,0 +1,4 @@
+Java MagazineJava Magazine is one of Oracle’s newest and most significant investments in the continuing health and growth of the Java technology ecosystem. This bimonthly, digital-only publication is an essential source of knowledge about Java technology, the Java programming language, and Java-based applications for people who rely on them in their professional careers, or who aspire to.  Although there are other publications that bring you news from the world of Java, there are no other examples that combine the voice of the Java “steward” (Oracle) with the voices of the rest of the community (developers, ISVs, device manufacturers, users, and students) in an innovative, all-digital package.   
+Java Magazine is published on a bi-monthly basis in digital and mobile formats. It includes:
+Profiles of innovative Java applications
+Java technical how-to’s: Enterprise Java, New to Java, Rich Client, Polyglot Programming, and more

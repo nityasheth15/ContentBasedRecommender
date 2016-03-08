@@ -1,0 +1,4 @@
+Oracle Software Delivery Cloud (OSDC)
+The Oracle Software Delivery Cloud enables customers to download software for all licensed Oracle products.
+You will need to verify your account prior to accessing the download site.
+ 

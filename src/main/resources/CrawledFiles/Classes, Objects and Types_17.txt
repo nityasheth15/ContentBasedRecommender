@@ -1,0 +1,5 @@
+Code section 3.85: Traditional object creation. 
+1 int age = 23;
+2 Integer ageObject = new Integer(age);Code section 3.86: Autoboxing. 
+1 int age = 23;
+2 Integer ageObject = age;Keep in mind that the compiler still creates the missing wrapper code, so one doesn't really gain anything performance-wise. Consider this feature a programmer convenience, not a performance booster.

@@ -1,0 +1,4 @@
+Cloud Application Foundation Data Integration Identity Management Mobile Platform Service-Oriented Architecture Business Process Management WebCenter WebLogic
+Cloud Management Application Management Database Management Middleware Management Hardware and Virtualization Management Heterogeneous Management Lifecycle Management
+Big Data Appliance Exadata Database Machine Exalogic Elastic Cloud Exalytics In-Memory Machine Database Appliance Oracle SuperCluster Private Cloud Appliance Oracle ZFS Storage Appliance Oracle FS1 Flash Storage System Zero Data Loss Recovery Appliance
+SPARC x86 Netra Fujitsu M10

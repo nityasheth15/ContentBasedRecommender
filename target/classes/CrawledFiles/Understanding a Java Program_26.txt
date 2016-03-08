@@ -1,0 +1,11 @@
+Code section 2.9: main() method. 
+1 public static void main(String[] args) {
+2    Distance dist = new Distance(
+3          intValue(args[0]), intValue(args[1]),
+4          intValue(args[2]), intValue(args[3]));
+5    dist.printDistance();
+6 }Code section 2.10: intValue() method. 
+1 private static int intValue(String data) {
+2    return Integer.parseInt(data);
+3 }Code section 2.11: Wrong type. 
+1 new Distance(args[0], args[1], args[2], args[3]) // This is an error

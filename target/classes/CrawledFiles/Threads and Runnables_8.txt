@@ -1,0 +1,25 @@
+Code listing 2: Creating Thread objects 
+public class ThreadLogic {
+    public static void main(String[] args) {
+        Thread t1 = new Thread(new RunnableProcess("Thread-1"));
+        Thread t2 = new Thread(new RunnableProcess("Thread-2"));
+        Thread t3 = new Thread(new RunnableProcess("Thread-3"));
+    }
+}Code listing 3: Starting the Thread objects 
+public class ThreadLogic {
+    public static void main(String[] args) {
+        Thread t1 = new Thread(new RunnableProcess("Thread-1"));
+        Thread t2 = new Thread(new RunnableProcess("Thread-2"));
+        Thread t3 = new Thread(new RunnableProcess("Thread-3"));
+
+        t1.start();
+        t2.start();
+        t3.start();
+    }
+}Output for code listing 3 
+Thread-1 is sleeping for 419
+Thread-3 is sleeping for 876
+Thread-2 is sleeping for 189
+Thread-2 is done
+Thread-1 is done
+Thread-3 is done

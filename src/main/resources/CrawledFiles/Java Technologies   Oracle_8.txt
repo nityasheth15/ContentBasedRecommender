@@ -1,0 +1,4 @@
+Java Platform, Standard Edition
+Watch the Java 8 launch
+Java Platform, Enterprise Edition
+Watch the Java EE 7 video (1:00:31)

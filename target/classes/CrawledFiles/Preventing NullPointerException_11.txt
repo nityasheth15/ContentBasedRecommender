@@ -1,0 +1,7 @@
+Code section 6.23: Visit a collection safety. 
+1 Collection<Integer> myNumbers = buildNumbers();
+2 if (myNumbers != null) {
+3   for (Integer myNumber : myNumbers) {
+4     System.out.println(myNumber);
+5   }
+6 }To do: Add some exercises like the ones in Variables

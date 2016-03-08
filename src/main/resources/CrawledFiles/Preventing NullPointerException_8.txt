@@ -1,0 +1,16 @@
+Code section 6.14: Non-instantiated declared object. 
+1 public Person getPerson(boolean isWoman) {
+2   Person person = null;
+3   if (isWoman) {
+4     person = createWoman();
+5   } else {
+6     person = createMan();
+7   }
+8   return person;
+9 }Code section 6.15: Bad comparison. 
+1 if (state.equals("OK")) {
+2   ...
+3 }Code section 6.16: Better comparison. 
+1 if ("OK".equals(state)) {
+2   ...
+3 }

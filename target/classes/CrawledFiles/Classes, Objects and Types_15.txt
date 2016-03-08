@@ -1,0 +1,4 @@
+Code section 3.79: A default constructor. 
+1 SportsCar car = new SportsCar();Code section 3.80: A non-default constructor. 
+1 SportsCar car = new SportsCar("red", 12, 190);Code section 3.81: Cloning object. 
+1 SportsCar car = oldCar.clone();

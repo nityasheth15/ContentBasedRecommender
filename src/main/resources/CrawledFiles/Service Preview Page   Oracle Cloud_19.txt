@@ -1,0 +1,4 @@
+Java Cloud Service + Database Cloud Service Unlimited Users + Unlimited Applications 6 OPCUs to be used across Java and Database services 500GB Block Storage + 500GB Object Storage
+Java Cloud Service Application Container Cloud (Java SE and Node) Database Cloud Service Unlimited Users + Unlimited Applications 6 OPCUs to be used across services 500GB Block Storage + 500GB Object Storage
+30 Days Free Trial 3 Developer Service Projects 1 Concurrent Hudson Build Storage: 1 GB Git & Maven, 1 GB Hudson, 1 GB tasks and Wiki
+About Oracle Contact Us Legal Notices Terms of Use Your Privacy Rights

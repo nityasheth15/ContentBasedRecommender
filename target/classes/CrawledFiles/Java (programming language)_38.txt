@@ -1,0 +1,4 @@
+JDeveloper Forms NetBeans Apex SQL Developer Solaris Studio
+Fusion Middleware WebCenter SOA Suite WebLogic Server Coherence Tuxedo GlassFish
+Oracle Linux Oracle Solaris
+Sun Fire SPARC (T-Series, Enterprise) StorageTek

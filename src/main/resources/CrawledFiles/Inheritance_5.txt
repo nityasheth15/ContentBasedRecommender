@@ -1,0 +1,18 @@
+Code listing 4.10: Car.java 
+1 public class Car extends Vehicle {
+2     public Car() {
+3         this.speed = 90;
+4         this.numberOfSeats = 5;
+5     }
+6 }Code listing 4.11: Plane.java 
+1 public class Plane extends Vehicle {
+2     public Plane() {
+3         super();
+4     }
+5 }Code listing 4.12: Vehicle.java 
+1 public class Vehicle {
+2     // ...
+3     public void run() throws Exception {
+4         position += speed;
+5     }
+6 }

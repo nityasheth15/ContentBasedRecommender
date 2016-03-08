@@ -1,0 +1,4 @@
+Conventions - Wikibooks, open books for an open world
+These conventions are aimed to increase the readability and the comprehension of the Java Programming Wikibook. It completes the Wikibooks Manual of Style. However exceptions can be made if needed. If you find it too complex to follow, add the content rawly. It will be formatted by someone.
+Most of the time a page from the Java Programming Wikibook has a structure that looks like this:
+This is the introduction.

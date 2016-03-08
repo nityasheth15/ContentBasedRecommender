@@ -1,0 +1,4 @@
+BSD GNU Haiku Linux Mozilla
+Free software movement Open-source movement Organizations Events
+Apache APSL Artistic Beerware Boost BSD CC0 CDDL EPL GNU GPL GNU LGPL ISC MIT MPL Ms-PL/RL WTFPL zlib
+Comparison of free and open-source software licenses Contributor License Agreement Copyfree Copyleft Debian Free Software Guidelines Definition of Free Cultural Works Free license The Free Software Definition The Open Source Definition Open-source license Permissive free software licence Public domain Viral license

@@ -1,0 +1,4 @@
+PaaS - Platform as a Service | Cloud Solutions | OracleBecome a Platform as a Service guru—FAST!
+Innovate with the industry’s #1 enterprise cloud platform.
+Oracle Cloud Platform meets the unique needs of developers, IT professionals, and business users with a comprehensive, integrated portfolio of platform services that enables them to innovate faster, increase productivity, and lower costs. Use Oracle Cloud Platform to integrate existing IT with next-generation cloud services, accelerate application development and deployment, and lead business transformation.
+Develop and deploy modern business applications faster and easier using services designed for developer productivity from Java applications to mobile application to simple mashups with built-in continuous delivery.

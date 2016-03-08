@@ -1,0 +1,11 @@
+It is easy to mistake the method substring() for subString() (which does not exist and would return with a syntax error on compilation). Substring is considered to be one word. This is why the method name does not seem to follow the common syntax of Java. Just remember that this style only applies to methods or other elements that are made up of more than one word.Code section 3.96: Case modification. 
+1 String str = "wIkIbOoKs";
+2 System.out.println(str.toLowerCase());
+3 System.out.println(str.toUpperCase());
+
+ Output for Code section 3.96 
+wikibooks
+WIKIBOOKSCode section 3.96: Case modification. 
+1 String str = "wIkIbOoKs";
+2 System.out.println(str.toLowerCase());
+3 System.out.println(str.toUpperCase());

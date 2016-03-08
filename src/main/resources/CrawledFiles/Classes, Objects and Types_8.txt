@@ -1,0 +1,4 @@
+Question 3.11: Consider the following code:
+How many autoboxings and unboxings are there in this code?
+3
+Methods in the java.lang.Object class are inherited, and thus shared in common by all classes.

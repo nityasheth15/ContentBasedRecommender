@@ -1,0 +1,26 @@
+Code section 3.18: A foreach loop. 
+1 String[] days = {"Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"};
+2 
+3 for (String day : days) {
+4   System.out.println(day);
+5 }
+ Output for code listing 3.18 
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+SundayCode section 3.18: A foreach loop. 
+1 String[] days = {"Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"};
+2 
+3 for (String day : days) {
+4   System.out.println(day);
+5 }Output for code listing 3.18 
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+Sunday

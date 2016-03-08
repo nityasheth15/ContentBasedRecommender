@@ -1,0 +1,15 @@
+Code section 3.16: A for loop. 
+1 for (int i = 0; i < 100; i++) {
+2   System.out.println(i + "\t" + i * i);
+3 }Output for code listing 3.16 if you compile and run the statement above. 
+ 0      0
+ 1      1
+ 2      4
+ 3      9
+ ...
+ 99     9801Code section 3.17: An alternative version. 
+1 int i = 0;
+2 while (i < 100) {
+3    System.out.println(i + "\t" + i * i);
+4    i++;
+5 }

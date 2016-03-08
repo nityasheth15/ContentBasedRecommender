@@ -1,0 +1,4 @@
+Java 8 Launch: Discover the new features of Java SE 8
+Java Platform, Enterprise Edition (Java EE) is the industry standard for enterprise Java computing. With new features that enhance HTML5 support, increase developer productivity, and further improve how enterprise demands can be met, Java EE 7 enables developers to write less boilerplate code, have better support for the latest Web applications and frameworks, and access enhanced scalability and richer functionality.
+Introducing Java EE 7
+Oracle Java Cloud Service provides an enterprise-grade platform to develop and deploy business applications in the cloud. It enables you to maximize productivity with instant access to cloud environments that support any standard Java EE application, complete with integrated security and database access—all powered by Oracle WebLogic Server.

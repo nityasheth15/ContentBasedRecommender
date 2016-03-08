@@ -1,0 +1,8 @@
+Code section 10.2: Reading the program's output. 
+1 InputStream istr = proc.getInputStream();
+2 BufferedReader br = new BufferedReader(new InputStreamReader(istr));
+3              
+4 String str;
+5 while ((str = br.readLine()) != null) {
+6     list.add(str);
+7 }

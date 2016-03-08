@@ -1,0 +1,22 @@
+Code listing 4.15: Customer.java 
+1 public class Customer implements Cloneable {
+2  ...
+3     public Object clone() throws CloneNotSupportedException {
+4        Object obj = super.clone();
+5 
+6        return obj;
+7     }
+8 }Code listing 4.16: Customer.java 
+ 1 public class Customer implements Cloneable {
+ 2   Activity activity;
+ 3   ...
+ 4     public Customer clone() throws CloneNotSupportedException {
+ 5       Customer clonedCustomer = (Customer) super.clone();
+ 6 
+ 7       // Clone the object referenced objects
+ 8       if (activity != null) {
+ 9          clonedCustomer.setActivity((Activity) activity.clone());
+10       }
+11       return clonedCustomer;
+12    }
+13 }

@@ -1,0 +1,2 @@
+ArrayList - Wikibooks, open books for an open worldCollection ArrayList Map Comparing Objects
+Inserts the specified element at the specified position index in this list. Throws IndexOutOfBoundsException if the specified index is out of range (index < 0 || index > size()).

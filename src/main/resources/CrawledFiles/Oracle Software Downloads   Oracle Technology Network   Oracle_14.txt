@@ -1,0 +1,4 @@
+Enterprise Manager Plugins Enterprise Manager Ops Center Real User Experience Insight
+JDBC Drivers node-oracledb Oracle Database Driver Oracle Data Access Components for Windows (ODP.NET, ODBC, OLE DB, Dev Tools for Visual Studio)
+Rdb ODBC Drivers Universal Connection Pool (UCP) Xsigo Drivers
+Cluster Verification Utility Enterprise Manager Grid Control Plugins Failsafe Help Technologies JDeveloper Extensions

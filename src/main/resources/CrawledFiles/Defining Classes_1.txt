@@ -1,0 +1,4 @@
+Defining Classes - Wikibooks, open books for an open world
+Every class in Java can be composed of the following elements:
+The following Java code would produce this output:
+A constructor is called to initialize an object immediately after the object has been allocated:

@@ -1,0 +1,2 @@
+Code section 4.32: Serialization version id. 
+1 private static final long serialVersionUID = 42L;

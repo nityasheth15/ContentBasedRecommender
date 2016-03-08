@@ -1,0 +1,4 @@
+Conditional blocks - Wikibooks, open books for an open world
+Conditional blocks allow a program to take a different path depending on some condition(s). These allow a program to perform a test and then take action based on the result of that test. In the code sections, the actually executed code lines will be highlighted.
+The if block executes only if the boolean expression associated with it is true. The structure of an if block is as follows:
+}

@@ -1,0 +1,4 @@
+A shared and elastically scalable, enterprise-grade platform for consolidation of existing applications and faster new application development and deployment. Delivers cost savings through standardization and higher utilization of the shared platform across multiple applications.
+Accelerate time to value with a complete and integrated portfolio of business application that deploy quickly and respond to changing business requirements. Offload IT management and focus on innovation.
+Complete offering of servers, storage, networking fabric, virtualization software, operating systems, and management software to help customers build a custom-fit enterprise cloud.
+Self-service provisioning, centralized resource management, integrated capacity planning, and complete visibility from applications to disk.

@@ -1,0 +1,4 @@
+A class is a template to create objects. Methods and variables declared private can not be access outside of the class. Those can be only accessed internally, it means that they are hidden from the outside. It makes programming esier because it is garantide that those internal information won't be messed up by outside code.
+No. Keywords are resirved by the compiler and can not be used for variables.
+Java does not have jump statements. The goto is reserved, but not used. The break statement is close to a jump statetement, but the destination of the jump is well defined. It breaks/jumps out from a loop, or a switch statement.
+Yes. Singleton constructors are private. When the constructor is private no object of that class can be created outside of that class. How and when an object can be created of that class is defined by that class.

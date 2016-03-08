@@ -1,0 +1,16 @@
+Code section 3.83: Assignment. 
+1 String badlyCutText = "     Java is great.     ";
+2 System.out.println(badlyCutText);
+3 
+4 badlyCutText = badlyCutText.trim();
+5 System.out.println(badlyCutText);
+ Output for Code section 3.83 
+     Java is great.    
+Java is great.Code section 3.83: Assignment. 
+1 String badlyCutText = "     Java is great.     ";
+2 System.out.println(badlyCutText);
+3 
+4 badlyCutText = badlyCutText.trim();
+5 System.out.println(badlyCutText);Output for Code section 3.83 
+     Java is great.    
+Java is great.

@@ -1,0 +1,4 @@
+Download: Java ME Embedded Data sheet: Java ME Embedded–an open, cross-industry platform for the IoT (PDF) Video: Turning devices into value-generating app platform with Java (10:07)
+Download: Java SE JDK White paper: Advanced Java Diagnostics and Monitoring without Performance Overhead (PDF) Data sheet: Oracle Java SE Advanced and Suite (PDF)
+Java EE SDK: Download the Java EE 7 SDK and tutorial for hands-on learning White paper: Introduction to the Java EE Platform (PDF) Videos: Fifteen short technical overview videos of Java EE 7 features
+Article: Banking on Java (PDF) Video: Complete Solution, Integrated Platform, Portable Applications (1:00:31) Article: Boosting Developer Productivity with Java EE (PDF)

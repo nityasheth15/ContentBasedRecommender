@@ -1,0 +1,4 @@
+Java EE Programming - Wikibooks, open books for an open world
+
+Wikipedia has related information at Java Platform, Enterprise Edition
+Java EE stands for Java 2 Platform, Enterprise Edition. This book will describe how to build Java EE based applications. The implementation is done with the help of XDoclet which simplifies the process of building an application.

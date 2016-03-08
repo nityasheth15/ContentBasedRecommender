@@ -1,0 +1,11 @@
+Boolean expressions - Wikibooks, open books for an open worldLoop blocks Java Programming Boolean expressions VariablesNavigate Language Fundamentals topic: ( v • d • e ) Statements Conditional blocks Loop blocks Boolean expressions Variables Primitive Types Arithmetic expressions Literals Methods String Objects Packages Arrays Mathematical functions Large numbers Random numbers Unicode Comments Keywords Coding conventionsCode section 3.37: Comparisons. 
+1 int a = 5, b = 3;
+2 System.out.println(a > b); // Value is true because a is greater than b
+3 System.out.println(a == b); // Value is false because a does not equal b
+4 System.out.println(a != b); // Value is true because a does not equal b
+5 System.out.println(b <= a); // Value is true because b is less than a
+ Output for code section 3.37 
+true
+false
+true
+true

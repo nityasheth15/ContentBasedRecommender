@@ -1,0 +1,4 @@
+Platform built for enriching and extending Oracle SaaS services like Oracle Sales Cloud, etc. This trial includes Java for SaaS Extension, and Database Schema Service.
+Platforms built to run any custom Java EE application or any lightweight Java SE and Node applications in cloud. This trial includes Database, Java, Application Container Cloud, Database Backup and Storage public cloud services.
+Simplify development with an automatically provisioned development platform that supports the complete development lifecycle.
+The next-gen cloud-based content collaboration solution. Built for the enterprise with robust security, application integration and mobile enablement.

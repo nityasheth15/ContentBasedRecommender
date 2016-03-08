@@ -1,0 +1,7 @@
+Help:Development stages - Wikibooks, open books for an open worldWikibook Development Stages Sparse text Developing text Maturing text Developed text Comprehensive textContents 1 Quart stages 2 Deci-stages 3 Book completion status 4 TODO list Quart stages There are two templates that create the quart stages indicators: {{stage}} and {{stage short}}. They take the development stage as their first argument and a date as an optional second: Markup Displays as 
+[[Main Page]] {{stage|100%|Jan 11, 2005}}
+ Main Page  (Jan 11, 2005) 
+[[Main Page]] {{stage short|100%|Jan 11, 2005}}
+ Main Page If the second parameter is not included in the {{stage}} template the date will not be displayed. Deci-stages The {{decistage}} template creates an indicator with ten stages: Markup Displays as 
+[[Main Page]] {{decistage|10|Jan 11, 2005}}
+ Main Page

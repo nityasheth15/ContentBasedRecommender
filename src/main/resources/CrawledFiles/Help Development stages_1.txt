@@ -1,0 +1,4 @@
+Help:Development stages - Wikibooks, open books for an open worldDevelopment stages are little indicators placed next to a link to a book or a page to indicate its progress, as reviewed at a certain date. They also are used on a book's main page to indicate the book's progress as a whole. They help readers identify comprehensive content, while drawing editors' attention to pages needing work.
+
+There are two templates that create the quart stages indicators: {{stage}} and {{stage short}}. They take the development stage as their first argument and a date as an optional second:
+If the second parameter is not included in the {{stage}} template the date will not be displayed.

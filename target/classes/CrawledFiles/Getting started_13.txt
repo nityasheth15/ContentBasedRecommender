@@ -1,0 +1,7 @@
+class Animal {
+
+  String name;
+  int legs;
+
+  void walk() { }
+}Note: Methods are known by different names in different programming language. They might be called functions, procedures, routines or behaviors.Figure 4: The Animal object can now be denoted as having an interaction behavior within the Java Environment as illustrated here. Note the difference between the presentation of fields and methods.

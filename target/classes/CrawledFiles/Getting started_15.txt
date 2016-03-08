@@ -1,0 +1,3 @@
+Getting started - Wikibooks, open books for an open worldInstalling Java on Your Computer Compiling programs Running Java programs Understanding a Java program Java IDEs
+inputs: messages received from the surrounding environment; and, outputs: messages given back to the surrounding environment.
+a field called name of type String; and, a field called legs of type int.

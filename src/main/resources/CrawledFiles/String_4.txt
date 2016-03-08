@@ -1,0 +1,4 @@
+Even though only the last one is actually useful.
+To avoid unnecessary memory use like this, use the StringBuilder class. It provides similar functionality to Strings, but stores its data in a mutable way. Only one StringBuilder object is created. Also because object creation is time consuming, using StringBuilder produces much faster code.
+As StringBuilder isn't thread safe (see the chapter on Concurrency). You can't use it in more than one thread. For multi-thread environment, use StringBuffer instead, which does the same and is thread safe. However, as StringBuffer is slower, so only use it when it is required. Moreover, only StringBuffer existed before Java 5.
+Comparing strings is not as easy as it may first seem. Be aware of what you are doing when comparing String's using ==:

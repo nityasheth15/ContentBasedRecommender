@@ -1,0 +1,4 @@
+We should obtain this content:
+Wed Feb 17 7:04:44 CEUTC 2016
+There is also Writer which is a character counterpart of OutputStream, and a destination counterpart to Reader, this is also an abstract superclass. Particular implementations parallel those of Reader, eg FileWriter, StringWriter, and OutputStreamWriter, for converting a regular OutputStream into a reader so that it can take character data.
+System is a class in the package java.lang with a number of static members that are available to Java programs. Two members that are useful for console output are System.out and System.err. Both System.out and System.err are PrintStream objects. PrintStream is a subclass of FilterOutputStream, itself a subclass of OutputStream (discussed above), and its main purpose is to translate a wide variety of data types into streams of bytes that represent that data in characters according to some encoding scheme.

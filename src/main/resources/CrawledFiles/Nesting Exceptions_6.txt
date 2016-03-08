@@ -1,0 +1,6 @@
+Code section 6.26: Chaining-aware constructor. 
+1 try {
+2     lowLevelOp();
+3 } catch (LowLevelException le) {
+4     throw new HighLevelException(le);
+5 }

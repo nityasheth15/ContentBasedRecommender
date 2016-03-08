@@ -1,0 +1,4 @@
+Squawk Java Development Kit OpenJDK Java virtual machine JavaFX Maxine VM
+Applets Servlets MIDlets JSP Web Start (JNLP)
+Eclipse GNU Classpath GWT Harmony Hibernate IcedTea Jazelle Spring Struts TopLink WildFly
+Java version history Java Community Process Sun Microsystems Free Java implementations

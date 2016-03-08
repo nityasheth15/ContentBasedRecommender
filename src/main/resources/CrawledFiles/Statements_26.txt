@@ -1,0 +1,20 @@
+Code section 3.19: Using a label. 
+1 String s = "A test string for the switch!\nLine two of test string...";
+2 outer: for (int i = 0; i < s.length(); i++) {
+3   switch (s.charAt(i)) {
+4     case '\n': break outer;
+5     case ' ': break;
+6     default: System.out.print(s.charAt(i));
+7   }
+8 }
+ Output for code listing 3.19 
+ Ateststringfortheswitch!Code section 3.19: Using a label. 
+1 String s = "A test string for the switch!\nLine two of test string...";
+2 outer: for (int i = 0; i < s.length(); i++) {
+3   switch (s.charAt(i)) {
+4     case '\n': break outer;
+5     case ' ': break;
+6     default: System.out.print(s.charAt(i));
+7   }
+8 }Output for code listing 3.19 
+ Ateststringfortheswitch!

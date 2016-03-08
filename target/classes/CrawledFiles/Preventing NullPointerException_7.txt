@@ -1,0 +1,3 @@
+Preventing NullPointerException - Wikibooks, open books for an open worldUnchecked Exceptions Java Programming Preventing NullPointerException Stack traceNavigate Exceptions topic:( v • d • e ) Throwing and catching exceptions Checked exceptions Unchecked exceptions Preventing NullPointerException Stack trace Nesting exceptions (chained exceptions)Code section 6.13: Null pointer. 
+1 Object obj = null;
+2 obj.toString();  // This statement will throw a NullPointerException

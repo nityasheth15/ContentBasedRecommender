@@ -1,0 +1,4 @@
+The simplest way to log your code is to print in the standard output, that is to say to use System.out.println();. Ftiercel (discuss • contribs) 19:29, 11 March 2013 (UTC)
+To calculate the perimeter or the area of a shape, use the methods of the java.lang.Math class as explained here. To draw sush shapes, you can use Swing as described here. Ftiercel (discuss • contribs) 19:29, 11 March 2013 (UTC)
+public class A{
+}

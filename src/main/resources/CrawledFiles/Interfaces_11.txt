@@ -1,0 +1,30 @@
+Question 4.3: FileLogger.java 
+ 1 import java.io.File;
+ 2 import java.io.FileOutputStream;
+ 3 
+ 4 public class FileLogger {
+ 5   public void printLog(String log) {
+ 6     try {
+ 7       File file = new File("log.txt");
+ 8       FileOutputStream stream = new FileOutputStream(file);
+ 9       byte[] logInBytes = (new Date() + ": " + log).getBytes();
+10 
+11       stream.write(logInBytes);
+12 
+13       stream.flush();
+14       stream.close();
+15     } catch (Exception e) {
+16       e.printStackTrace();
+17     }
+18   }
+19 }Question 4.3: Common code. 
+1 Object[] loggerArray = new Object[2];
+2 loggerArray[0] = new ConsoleLogger();
+3 loggerArray[1] = new FileLogger();
+4 
+5 for (Object logger : loggerArray) {
+6     // logger.printLog("Check point.");
+7 }Answer 4.3: Logger.java 
+1 public interface Logger {
+2     void printLog(String log);
+3 }

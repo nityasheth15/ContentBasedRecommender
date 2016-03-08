@@ -1,0 +1,3 @@
+Execution 
+java HelloWorldIf you obtain an error message like Exception in thread "main" java.lang.NoClassDefFoundError: HelloWorld, the HelloWorld.class file is not in the current folder or it is badly spelled. If you obtain an error message like Exception in thread "main" java.lang.NoSuchMethodError: main, your source file may have been badly written.Output 
+Hello World!

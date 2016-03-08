@@ -1,0 +1,4 @@
+Dedicated cluster of WebLogic Server, with your choice of 11g or 12c Standard Edition, Enterprise Edition or Suite to match your needs. Includes a software-based load balancer powered by Oracle Traffic Director. Optionally includes Oracle Coherence for your caching and/or data grid needs.
+Use your favorite IDE (Oracle JDeveloper, Eclipse, NetBeans) to develop and deploy applications to your cloud instance. Manage and monitor your instance using advanced tools like WebLogic Admin Console, WebLogic Scripting Tool (WLST), and Enterprise Manager Fusion Middleware Control
+Full administrative access to the WebLogic Server through a Web-based administrative console, and access to virtual machines using SSH
+Control any type of network connectivity to your application environment, including—but not limited to—Web, HTTP(S), TCP, RMI, and so on. Selective open access to ports and protocols of your choice

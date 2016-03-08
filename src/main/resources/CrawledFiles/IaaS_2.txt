@@ -1,0 +1,4 @@
+Elastic compute capacity to address growing business needs
+Online storage for digital backup and archive at your fingertips
+Networking services to connect your data center to the Cloud
+Oracle Cloud IaaS offers a comprehensive set of integrated, subscription-based infrastructure services that enable businesses to run any workload in an enterprise-grade cloud managed, hosted, and supported by Oracle.

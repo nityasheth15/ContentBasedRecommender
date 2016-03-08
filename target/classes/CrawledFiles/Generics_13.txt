@@ -1,0 +1,7 @@
+Code section 4.39: Wildcard type. 
+1 Collection<?> collUnknown;Code section 4.40: Collection of serializable subobjects. 
+1 Collection<String> textColl = new ArrayList<String>();
+2 
+3 Collection<? extends Serializable> serColl = textColl;Code listing 4.38: Dog.java 
+1 class Dog extends Animal {
+2 }

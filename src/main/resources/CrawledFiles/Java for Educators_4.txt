@@ -1,0 +1,4 @@
+Overview Roles Technologies Get Started
+Main Technologist Executive Educator End User
+Training: Oracle University: Java Training and Certification Curriculum: Oracle Academy—Free Java Curriculum Online event: Virtual Developer Day—Java 2014
+Free course: Massive Open Online Course: Develop Java Embedded Applications Using a Raspberry Pi Certification: Java ME Certification Training: Java Learning Library

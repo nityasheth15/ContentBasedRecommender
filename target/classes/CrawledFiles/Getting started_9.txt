@@ -1,0 +1,1 @@
+Getting started - Wikibooks, open books for an open worldThe Java Platform Java Programming Getting started InstallationNavigate Getting Started topic: ( v • d • e ) Installing Java on Your Computer Compiling programs Running Java programs Understanding a Java program Java IDEsFigure 1: A simple system interacting with its environment using input and output messages.

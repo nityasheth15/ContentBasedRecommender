@@ -1,0 +1,15 @@
+Code section 3.75: In-lined method. 
+ 1 FirstClass object = new FirstClass();
+ 2 object.setName("Christin");
+ 3 
+ 4 // Start of the method
+ 5 FirstClass anObject = object;
+ 6 anObject = new FirstClass();
+ 7 anObject.setName("Susan");
+ 8 // End of the method
+ 9 
+10 System.out.println(object.getName());Output for Code section 3.75 
+ChristinCode section 3.76: A method using vararg parameters. 
+1 public void drawPolygon(java.awt.Point... points) {
+2   //…
+3 }

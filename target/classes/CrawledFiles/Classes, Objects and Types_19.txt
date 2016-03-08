@@ -1,0 +1,4 @@
+Classes, Objects and Types - Wikibooks, open books for an open worldStatements Conditional blocks Loop blocks Boolean expressions Variables Primitive Types Arithmetic expressions Literals Methods String Objects Packages Arrays Mathematical functions Large numbers Random numbers Unicode Comments Keywords Coding conventions
+up casting going up in the inheritance tree, until we reach the Object up casting to an interface the class implements down casting until we reach the class the object was created from
+1 autoboxing at line 1 to assign. 1 unboxing at line 2 to do the addition. 1 autoboxing at line 2 to assign. No autoboxing nor unboxing at line 3 as println() supports the Integer class as parameter.
+Stable: does not change Evenly distributed: the hash codes of unequal objects tend to be unequal and the hash codes are evenly distributed across integer values.

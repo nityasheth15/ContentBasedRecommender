@@ -1,0 +1,4 @@
+Java uses unicode, while C++ uses ASCII. Unicode consists of a repertoire of about 100,000 characters, which is much more than what the ASCII character-set can represent. See also Java Programming/Syntax/Unicode Source
+You can display the value of any variable by using the System.out.print() and System.out.println() functions.
+The java language is introduced from here. Ftiercel (discuss • contribs) 19:29, 11 March 2013 (UTC)
+The JVM is not generated. You download the JRE or JDK and once installed you launch the JVM as explained here. System is a class. It's a static use of a class. out is a static field of the System class. The book explain how to create a class here. Ftiercel (discuss • contribs) 19:29, 11 March 2013 (UTC)

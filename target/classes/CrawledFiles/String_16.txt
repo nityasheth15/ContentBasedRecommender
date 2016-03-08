@@ -1,0 +1,12 @@
+Code section 3.89: Dangerous comparison. 
+1 String greeting = "Hello World!";
+2 if (greeting == "Hello World!") {
+3     System.out.println("Match found.");
+4 }Output for Code section 3.89 
+Match found.Code section 3.90: Right comparison. 
+1 String greeting = "Hello World!";
+2 if (greeting.equals("Hello World!")) {
+3     System.out.println("Match found.");
+4 }
+ Output for Code section 3.90 
+Match found.

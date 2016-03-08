@@ -1,0 +1,4 @@
+public class T{
+Using Eclipse, you can access to the method declaration clicking on it pressing the Ctrl key. You can access to the features of a class in your program using Reflection. BlueJ is not the most popular IDE, so there is not much information about it in the IDE section. Ftiercel (discuss • contribs) 19:29, 11 March 2013 (UTC)
+int i = 5 - 2; Ftiercel (discuss • contribs) 19:29, 11 March 2013 (UTC)
+I have an android tablet make J-Q 88 B+ have tried loading any java but unfortunately b can't access .wanted to use on video calling and telephone calling .

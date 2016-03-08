@@ -1,0 +1,12 @@
+You write You get 
+{{Java/Illustration
+|number=1
+|caption=A sample illustration from the book
+|image=[[File:Java Compilation Basics.svg|center]]
+}}
+ Figure 1: A sample illustration from the bookFigure 1: A sample illustration from the bookCode section 0.1: The official Java code conventions 
+if (foo == bar) {
+    // do stuff
+} else {
+    // do other stuff
+}

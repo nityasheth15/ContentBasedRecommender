@@ -1,0 +1,17 @@
+Conventions - Wikibooks, open books for an open worldTodo Java Programming Conventions Authors & ContributorsNavigate Project Page topic: ( v • d • e ) Recent changes If you have questions related to Java If you are interested in editing this book How to format the content Who is contributing TrafficYou write You get 
+<noinclude>{{Displaytitle|title=The title of the page}}
+{{Programming/Navigation|lang=Java|previous=Previous page|next=Next page}}
+{{Java Programming/LanguageFundamentalsTopic/Nav}}
+__NOTOC__</noinclude>
+
+This is the introduction.
+
+==First section==
+
+This is a section.
+
+<noinclude>
+{{Programming/Navigation|lang=Java|previous=Previous page|next=Next page}}
+{{Status|50%}}
+{{BookCat}}</noinclude>
+ Previous page Java Programming Conventions Next page Navigate Language Fundamentals topic: ( v • d • e ) Statements Conditional blocks Loop blocks Boolean expressions Variables Primitive Types Arithmetic expressions Literals Methods String Objects Packages Arrays Mathematical functions Large numbers Random numbers Unicode Comments Keywords Coding conventions This is the introduction. First section[edit] This is a section. Previous page Java Programming Conventions Next page

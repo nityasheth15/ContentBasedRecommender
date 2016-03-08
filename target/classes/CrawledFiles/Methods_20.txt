@@ -1,0 +1,2 @@
+Methods - Wikibooks, open books for an open worldStatements Conditional blocks Loop blocks Boolean expressions Variables Primitive Types Arithmetic expressions Literals Methods String Objects Packages Arrays Mathematical functions Large numbers Random numbers Unicode Comments Keywords Coding conventions
+There is no more link between the reference inside the method and the source reference, The source object itself and the object itself inside the method are still the same.

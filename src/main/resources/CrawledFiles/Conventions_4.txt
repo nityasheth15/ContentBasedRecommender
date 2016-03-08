@@ -1,0 +1,4 @@
+To warn the user of things like common pitfalls, the XWarning template should be used as demonstrated:
+If there are sections of the book that require attention at a later time, you can add a to-do note by including the following template:
+To do: To-do items for pages should be kept in their respective comment boxes.
+If a section is optional, it can be hidden like this:

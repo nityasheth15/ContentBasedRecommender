@@ -1,0 +1,4 @@
+You will need to register for a Forums account and create a Forums 'handle,' which will be used in lieu of your e-mail address Newsletter Subscriptions when posting/answering questions in the forums.
+My Oracle Support (MOS)
+My Oracle Support is a paid support service portal.  Users have the ability to file service requests and interact with the support teams for contracted services.
+You will be required to complete a registration form that includes your Customer Support Identifier. 

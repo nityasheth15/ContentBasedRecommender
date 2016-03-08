@@ -1,0 +1,7 @@
+Code section 3.82: Default type. 
+1 (new ClassName()).operations();Code section 3.83: A variable having the same type as the class. 
+1 ClassName objRefVariable = new ClassName();
+2 objRefVariable.operations();Code section 3.84: Using the super class. 
+1 SuperClass objectRef = new ClassName(); // features/operations list are defined by the SuperClass class
+2 ...
+3 Interface inter = new ClassName(); // features/operations list are defined by the interface

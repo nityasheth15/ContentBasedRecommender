@@ -1,0 +1,4 @@
+Code section 2.7: Explicit instance of the current class. 
+1   System.out.println("Distance between " + this.point0
+2     + " and " + this.point1
+3     + " is " + this.point0.distance(this.point1));

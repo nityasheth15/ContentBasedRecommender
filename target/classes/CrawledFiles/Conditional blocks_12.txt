@@ -1,0 +1,8 @@
+boolean expression1 ? expression1 : expression2Code section 3.24: Conditional expressions. 
+1 String answer = (p < 0.05)? "reject" : "keep";Code section 3.25: Equivalent code. 
+1 String answer;
+2 if (p < 0.05) {
+3     answer = "reject";
+4 } else {
+5     answer = "keep";
+6 }

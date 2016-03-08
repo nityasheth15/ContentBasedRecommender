@@ -1,0 +1,4 @@
+What if I'm not subscribed to any Oracle communication, but wish to stop receiving emails from Oracle? You can opt out of receiving any further marketing communications from Oracle by either:
+Keep in mind that by adding yourself to the Do Not Email list, you will be missing out on newsletters, product announcements, special offers, and event notifications you may have requested in the past. You will continue to receive emails for event registration confirmation, account management, membership, purchase, and support and security notifications.
+Note: It may take up to 48 hours for your request to be reflected on your Oracle Account page. When the unsubscribe action is successful, you should see the following message on your Oracle Account page:
+‘You are opted-out of Oracle marketing communications.’

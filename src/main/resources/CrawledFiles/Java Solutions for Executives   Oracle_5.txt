@@ -1,0 +1,4 @@
+Video: Keep Critical Applications Running at Peak Efficiency (3:08) Press release: Diagnostics, Monitoring, and Deployment Capabilities for Java Video: Java SE Diagnostic and Security Features (5:43)
+Video: JavaOne 2014 Strategy Keynote (1:33:51) Press release: Oracle Announces Java 8 Video: ORACLE TEAM USA: Java-Fueled Design/Java-Fueled Sailing (2:19)
+Online event: Managing Complexity in the Internet of Things Video: Java Embedded for IoT (2:51) White paper: The Internet of Things: Manage the Complexity, Seize the Opportunity (PDF)
+Analyst report: VDC Research Report: M2M Vendor Spotlight - Oracle (PDF) Video: Distributed Intelligence in IoT Deployments (8:47) Webcast: Enabling Analytics on Edge Devices in the Internet of Things

@@ -1,0 +1,4 @@
+Most likely, you’ll be using several of the above of the above scenarios at once. So it makes sense to choose a cloud provider with solutions that are preintegrated and tested to work across the entire stack, whether in your data center or in the cloud. That way, even though cloud computing means different things to different people, you will have a single, complete, and integrated platform to serve them all.
+Explore the resources on this page to learn about the most complete, integrated cloud solutions in the industry.
+ 
+Increase business agility. Achieve more, faster, and with less resources. With the following key enablers: the cloud, mobile, social, analytics, the internet of things, and big data, you can transform your business for the future.

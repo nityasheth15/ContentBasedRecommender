@@ -1,0 +1,4 @@
+When the method returns nothing, the return keyword at the end of the method is optional. When the execution flow reaches the return keyword, the method execution is stopped and the execution flow returns to the caller method. The return keyword can be used anywhere in the method as long as there is a way to execute the instructions below:
+In the code section 3.68, the return keyword at line 5 is well placed because the instructions below can be reached when a is negative or equal to 0. However, the return keyword at line 8 is badly placed because the instructions below can't be reached.
+Question 3.9: Consider the following code:
+The code above will return a compiler error. Why?

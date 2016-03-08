@@ -1,0 +1,4 @@
+Fully managed by Oracle, including all platform lifecycle operations like backup, patching, and so on
+Includes the full environment needed to deploy your extensions, with access to Oracle Database and other cloud services
+Enterprise-grade security, with isolated, dedicated virtual machines running your applications or extensions. No environment sharing between tenants. A fully integrated Identity Management solution to provide out-of-the-box Single Sign-On (SSO) between your extension and your SaaS service, including self-service user management and access control
+Pre-integrated and easy access to other Oracle Cloud services, such as Developer Service, Messaging Service, Storage Service, and so on

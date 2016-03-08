@@ -1,0 +1,30 @@
+Code listing 4.13: MyProgram.java 
+1 public class MyProgram {
+2 
+3   public static void main(String[] args) {
+4     // Create an 'MyObject' for the first time the application started
+5     MyObject obj = new MyObject();
+6   }
+7 }Code listing 4.14: MyObject.java 
+1 public class MyObject {
+2    private int memberVar;
+3 ...
+4    MyObject(MyObject obj) {
+5       this.memberVar = obj.memberVar;
+6     ...
+7    }
+8 ...
+9 }Code section 4.31: Object cloning. 
+ 1 HashTable cacheTemplate = new HashTable();
+ 2 ...
+ 3 /** Clone Customer object for performance reason */
+ 4 public Customer createCustomerObject() {
+ 5    // See if a template object exists in our cache
+ 6    Customer template = cacheTemplate.get("Customer");
+ 7    if (template == null) {
+ 8       // Create template
+ 9       template = new Customer();
+10       cacheTemplate.put("Customer", template);
+11    }
+12   return template.clone();
+13 }

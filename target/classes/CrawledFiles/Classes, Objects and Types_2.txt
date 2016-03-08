@@ -1,0 +1,4 @@
+In Java, a class is located in a file similar to its own name. If you want to have a class called SportsCar, its source file needs to be SportsCar.java. The class is created by placing the following in the source file:
+The class doesn't do anything yet, as you will need to add methods and field variables first.
+The objects are different from the primitive types because:
+In order to get from class to object, we "build" our object by instantiation. Instantiation simply means to create an instance of a class. Instance and object are very similar terms and are sometimes interchangeable, but remember that an instance refers to a specific object, which was created from a class.

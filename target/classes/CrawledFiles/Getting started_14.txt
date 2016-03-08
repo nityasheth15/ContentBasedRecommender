@@ -1,0 +1,19 @@
+class Animal {
+
+  public String name;
+  public int legs;
+
+  public void walk() { }
+}class Animal {
+
+  private String name;
+  private int legs;
+
+  public void walk() { }
+}public class Animal {
+
+  private String name;
+  private int legs;
+
+  public void walk() { }
+}

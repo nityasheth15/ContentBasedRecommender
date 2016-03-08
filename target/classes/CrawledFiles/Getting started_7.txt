@@ -1,0 +1,4 @@
+In this instance, the name of our method is walk. Notice however that the name of our method also features a set of round brackets as well. More than just being visual identifiers for methods, these round brackets are used to provide our methods with additional input information called arguments.
+A method therefore enables an object to:
+In essence, methods are what makes an object behave more like a system.
+Notice the keyword void before the name of the method – this tells us that the method walk returns nothing. You can set a method to return any data type – it can be a String or an int as well.
